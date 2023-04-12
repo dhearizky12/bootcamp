@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "d:\\Dhea_Bootcamp\\learn\\15 pertemuan 11 coba\\01CobaHastable\\01CobaHastable.csproj": {}
+    "D:\\Dhea_Bootcamp\\learn\\15 pertemuan 11 coba\\01CobaHastable\\01CobaHastable.csproj": {}
   },
   "projects": {
-    "d:\\Dhea_Bootcamp\\learn\\15 pertemuan 11 coba\\01CobaHastable\\01CobaHastable.csproj": {
+    "D:\\Dhea_Bootcamp\\learn\\15 pertemuan 11 coba\\01CobaHastable\\01CobaHastable.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\Dhea_Bootcamp\\learn\\15 pertemuan 11 coba\\01CobaHastable\\01CobaHastable.csproj",
+        "projectUniqueName": "D:\\Dhea_Bootcamp\\learn\\15 pertemuan 11 coba\\01CobaHastable\\01CobaHastable.csproj",
         "projectName": "01CobaHastable",
-        "projectPath": "d:\\Dhea_Bootcamp\\learn\\15 pertemuan 11 coba\\01CobaHastable\\01CobaHastable.csproj",
+        "projectPath": "D:\\Dhea_Bootcamp\\learn\\15 pertemuan 11 coba\\01CobaHastable\\01CobaHastable.csproj",
         "packagesPath": "C:\\Users\\Formulatrix\\.nuget\\packages\\",
-        "outputPath": "d:\\Dhea_Bootcamp\\learn\\15 pertemuan 11 coba\\01CobaHastable\\obj\\",
+        "outputPath": "D:\\Dhea_Bootcamp\\learn\\15 pertemuan 11 coba\\01CobaHastable\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Formulatrix\\AppData\\Roaming\\NuGet\\NuGet.Config"

@@ -1,0 +1,30 @@
+c:\C#\Bootcamp\vscode\Day 17\DebugAndTrace2\bin\Debug\net7.0\DebugAndTrace2.exe
+c:\C#\Bootcamp\vscode\Day 17\DebugAndTrace2\bin\Debug\net7.0\DebugAndTrace2.deps.json
+c:\C#\Bootcamp\vscode\Day 17\DebugAndTrace2\bin\Debug\net7.0\DebugAndTrace2.runtimeconfig.json
+c:\C#\Bootcamp\vscode\Day 17\DebugAndTrace2\bin\Debug\net7.0\DebugAndTrace2.dll
+c:\C#\Bootcamp\vscode\Day 17\DebugAndTrace2\bin\Debug\net7.0\DebugAndTrace2.pdb
+c:\C#\Bootcamp\vscode\Day 17\DebugAndTrace2\obj\Debug\net7.0\DebugAndTrace2.csproj.AssemblyReference.cache
+c:\C#\Bootcamp\vscode\Day 17\DebugAndTrace2\obj\Debug\net7.0\DebugAndTrace2.GeneratedMSBuildEditorConfig.editorconfig
+c:\C#\Bootcamp\vscode\Day 17\DebugAndTrace2\obj\Debug\net7.0\DebugAndTrace2.AssemblyInfoInputs.cache
+c:\C#\Bootcamp\vscode\Day 17\DebugAndTrace2\obj\Debug\net7.0\DebugAndTrace2.AssemblyInfo.cs
+c:\C#\Bootcamp\vscode\Day 17\DebugAndTrace2\obj\Debug\net7.0\DebugAndTrace2.csproj.CoreCompileInputs.cache
+c:\C#\Bootcamp\vscode\Day 17\DebugAndTrace2\obj\Debug\net7.0\DebugAndTrace2.dll
+c:\C#\Bootcamp\vscode\Day 17\DebugAndTrace2\obj\Debug\net7.0\refint\DebugAndTrace2.dll
+c:\C#\Bootcamp\vscode\Day 17\DebugAndTrace2\obj\Debug\net7.0\DebugAndTrace2.pdb
+c:\C#\Bootcamp\vscode\Day 17\DebugAndTrace2\obj\Debug\net7.0\DebugAndTrace2.genruntimeconfig.cache
+c:\C#\Bootcamp\vscode\Day 17\DebugAndTrace2\obj\Debug\net7.0\ref\DebugAndTrace2.dll
+D:\Dhea_Bootcamp\learn\Day17-master\DebugAndTrace2\bin\Debug\net7.0\DebugAndTrace2.exe
+D:\Dhea_Bootcamp\learn\Day17-master\DebugAndTrace2\bin\Debug\net7.0\DebugAndTrace2.deps.json
+D:\Dhea_Bootcamp\learn\Day17-master\DebugAndTrace2\bin\Debug\net7.0\DebugAndTrace2.runtimeconfig.json
+D:\Dhea_Bootcamp\learn\Day17-master\DebugAndTrace2\bin\Debug\net7.0\DebugAndTrace2.dll
+D:\Dhea_Bootcamp\learn\Day17-master\DebugAndTrace2\bin\Debug\net7.0\DebugAndTrace2.pdb
+D:\Dhea_Bootcamp\learn\Day17-master\DebugAndTrace2\obj\Debug\net7.0\DebugAndTrace2.csproj.AssemblyReference.cache
+D:\Dhea_Bootcamp\learn\Day17-master\DebugAndTrace2\obj\Debug\net7.0\DebugAndTrace2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dhea_Bootcamp\learn\Day17-master\DebugAndTrace2\obj\Debug\net7.0\DebugAndTrace2.AssemblyInfoInputs.cache
+D:\Dhea_Bootcamp\learn\Day17-master\DebugAndTrace2\obj\Debug\net7.0\DebugAndTrace2.AssemblyInfo.cs
+D:\Dhea_Bootcamp\learn\Day17-master\DebugAndTrace2\obj\Debug\net7.0\DebugAndTrace2.csproj.CoreCompileInputs.cache
+D:\Dhea_Bootcamp\learn\Day17-master\DebugAndTrace2\obj\Debug\net7.0\DebugAndTrace2.dll
+D:\Dhea_Bootcamp\learn\Day17-master\DebugAndTrace2\obj\Debug\net7.0\refint\DebugAndTrace2.dll
+D:\Dhea_Bootcamp\learn\Day17-master\DebugAndTrace2\obj\Debug\net7.0\DebugAndTrace2.pdb
+D:\Dhea_Bootcamp\learn\Day17-master\DebugAndTrace2\obj\Debug\net7.0\DebugAndTrace2.genruntimeconfig.cache
+D:\Dhea_Bootcamp\learn\Day17-master\DebugAndTrace2\obj\Debug\net7.0\ref\DebugAndTrace2.dll

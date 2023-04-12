@@ -1,0 +1,30 @@
+c:\C#\Bootcamp\vscode\Day 17\ConsoleTraceListeners\bin\Debug\net7.0\ConsoleTraceListeners.exe
+c:\C#\Bootcamp\vscode\Day 17\ConsoleTraceListeners\bin\Debug\net7.0\ConsoleTraceListeners.deps.json
+c:\C#\Bootcamp\vscode\Day 17\ConsoleTraceListeners\bin\Debug\net7.0\ConsoleTraceListeners.runtimeconfig.json
+c:\C#\Bootcamp\vscode\Day 17\ConsoleTraceListeners\bin\Debug\net7.0\ConsoleTraceListeners.dll
+c:\C#\Bootcamp\vscode\Day 17\ConsoleTraceListeners\bin\Debug\net7.0\ConsoleTraceListeners.pdb
+c:\C#\Bootcamp\vscode\Day 17\ConsoleTraceListeners\obj\Debug\net7.0\ConsoleTraceListeners.csproj.AssemblyReference.cache
+c:\C#\Bootcamp\vscode\Day 17\ConsoleTraceListeners\obj\Debug\net7.0\ConsoleTraceListeners.GeneratedMSBuildEditorConfig.editorconfig
+c:\C#\Bootcamp\vscode\Day 17\ConsoleTraceListeners\obj\Debug\net7.0\ConsoleTraceListeners.AssemblyInfoInputs.cache
+c:\C#\Bootcamp\vscode\Day 17\ConsoleTraceListeners\obj\Debug\net7.0\ConsoleTraceListeners.AssemblyInfo.cs
+c:\C#\Bootcamp\vscode\Day 17\ConsoleTraceListeners\obj\Debug\net7.0\ConsoleTraceListeners.csproj.CoreCompileInputs.cache
+c:\C#\Bootcamp\vscode\Day 17\ConsoleTraceListeners\obj\Debug\net7.0\ConsoleTraceListeners.dll
+c:\C#\Bootcamp\vscode\Day 17\ConsoleTraceListeners\obj\Debug\net7.0\refint\ConsoleTraceListeners.dll
+c:\C#\Bootcamp\vscode\Day 17\ConsoleTraceListeners\obj\Debug\net7.0\ConsoleTraceListeners.pdb
+c:\C#\Bootcamp\vscode\Day 17\ConsoleTraceListeners\obj\Debug\net7.0\ConsoleTraceListeners.genruntimeconfig.cache
+c:\C#\Bootcamp\vscode\Day 17\ConsoleTraceListeners\obj\Debug\net7.0\ref\ConsoleTraceListeners.dll
+d:\Dhea_Bootcamp\learn\Day17-master\ConsoleTraceListeners\bin\Debug\net7.0\ConsoleTraceListeners.exe
+d:\Dhea_Bootcamp\learn\Day17-master\ConsoleTraceListeners\bin\Debug\net7.0\ConsoleTraceListeners.deps.json
+d:\Dhea_Bootcamp\learn\Day17-master\ConsoleTraceListeners\bin\Debug\net7.0\ConsoleTraceListeners.runtimeconfig.json
+d:\Dhea_Bootcamp\learn\Day17-master\ConsoleTraceListeners\bin\Debug\net7.0\ConsoleTraceListeners.dll
+d:\Dhea_Bootcamp\learn\Day17-master\ConsoleTraceListeners\bin\Debug\net7.0\ConsoleTraceListeners.pdb
+d:\Dhea_Bootcamp\learn\Day17-master\ConsoleTraceListeners\obj\Debug\net7.0\ConsoleTraceListeners.csproj.AssemblyReference.cache
+d:\Dhea_Bootcamp\learn\Day17-master\ConsoleTraceListeners\obj\Debug\net7.0\ConsoleTraceListeners.GeneratedMSBuildEditorConfig.editorconfig
+d:\Dhea_Bootcamp\learn\Day17-master\ConsoleTraceListeners\obj\Debug\net7.0\ConsoleTraceListeners.AssemblyInfoInputs.cache
+d:\Dhea_Bootcamp\learn\Day17-master\ConsoleTraceListeners\obj\Debug\net7.0\ConsoleTraceListeners.AssemblyInfo.cs
+d:\Dhea_Bootcamp\learn\Day17-master\ConsoleTraceListeners\obj\Debug\net7.0\ConsoleTraceListeners.csproj.CoreCompileInputs.cache
+d:\Dhea_Bootcamp\learn\Day17-master\ConsoleTraceListeners\obj\Debug\net7.0\ConsoleTraceListeners.dll
+d:\Dhea_Bootcamp\learn\Day17-master\ConsoleTraceListeners\obj\Debug\net7.0\refint\ConsoleTraceListeners.dll
+d:\Dhea_Bootcamp\learn\Day17-master\ConsoleTraceListeners\obj\Debug\net7.0\ConsoleTraceListeners.pdb
+d:\Dhea_Bootcamp\learn\Day17-master\ConsoleTraceListeners\obj\Debug\net7.0\ConsoleTraceListeners.genruntimeconfig.cache
+d:\Dhea_Bootcamp\learn\Day17-master\ConsoleTraceListeners\obj\Debug\net7.0\ref\ConsoleTraceListeners.dll

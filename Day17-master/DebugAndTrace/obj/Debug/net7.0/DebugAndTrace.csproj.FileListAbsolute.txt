@@ -1,0 +1,30 @@
+c:\C#\Bootcamp\vscode\Day 17\DebugAndTrace\obj\Debug\net7.0\DebugAndTrace.csproj.AssemblyReference.cache
+c:\C#\Bootcamp\vscode\Day 17\DebugAndTrace\obj\Debug\net7.0\DebugAndTrace.GeneratedMSBuildEditorConfig.editorconfig
+c:\C#\Bootcamp\vscode\Day 17\DebugAndTrace\obj\Debug\net7.0\DebugAndTrace.AssemblyInfoInputs.cache
+c:\C#\Bootcamp\vscode\Day 17\DebugAndTrace\obj\Debug\net7.0\DebugAndTrace.AssemblyInfo.cs
+c:\C#\Bootcamp\vscode\Day 17\DebugAndTrace\obj\Debug\net7.0\DebugAndTrace.csproj.CoreCompileInputs.cache
+c:\C#\Bootcamp\vscode\Day 17\DebugAndTrace\bin\Debug\net7.0\DebugAndTrace.exe
+c:\C#\Bootcamp\vscode\Day 17\DebugAndTrace\bin\Debug\net7.0\DebugAndTrace.deps.json
+c:\C#\Bootcamp\vscode\Day 17\DebugAndTrace\bin\Debug\net7.0\DebugAndTrace.runtimeconfig.json
+c:\C#\Bootcamp\vscode\Day 17\DebugAndTrace\bin\Debug\net7.0\DebugAndTrace.dll
+c:\C#\Bootcamp\vscode\Day 17\DebugAndTrace\bin\Debug\net7.0\DebugAndTrace.pdb
+c:\C#\Bootcamp\vscode\Day 17\DebugAndTrace\obj\Debug\net7.0\DebugAndTrace.dll
+c:\C#\Bootcamp\vscode\Day 17\DebugAndTrace\obj\Debug\net7.0\refint\DebugAndTrace.dll
+c:\C#\Bootcamp\vscode\Day 17\DebugAndTrace\obj\Debug\net7.0\DebugAndTrace.pdb
+c:\C#\Bootcamp\vscode\Day 17\DebugAndTrace\obj\Debug\net7.0\DebugAndTrace.genruntimeconfig.cache
+c:\C#\Bootcamp\vscode\Day 17\DebugAndTrace\obj\Debug\net7.0\ref\DebugAndTrace.dll
+D:\Dhea_Bootcamp\learn\Day17-master\DebugAndTrace\bin\Debug\net7.0\DebugAndTrace.exe
+D:\Dhea_Bootcamp\learn\Day17-master\DebugAndTrace\bin\Debug\net7.0\DebugAndTrace.deps.json
+D:\Dhea_Bootcamp\learn\Day17-master\DebugAndTrace\bin\Debug\net7.0\DebugAndTrace.runtimeconfig.json
+D:\Dhea_Bootcamp\learn\Day17-master\DebugAndTrace\bin\Debug\net7.0\DebugAndTrace.dll
+D:\Dhea_Bootcamp\learn\Day17-master\DebugAndTrace\bin\Debug\net7.0\DebugAndTrace.pdb
+D:\Dhea_Bootcamp\learn\Day17-master\DebugAndTrace\obj\Debug\net7.0\DebugAndTrace.csproj.AssemblyReference.cache
+D:\Dhea_Bootcamp\learn\Day17-master\DebugAndTrace\obj\Debug\net7.0\DebugAndTrace.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dhea_Bootcamp\learn\Day17-master\DebugAndTrace\obj\Debug\net7.0\DebugAndTrace.AssemblyInfoInputs.cache
+D:\Dhea_Bootcamp\learn\Day17-master\DebugAndTrace\obj\Debug\net7.0\DebugAndTrace.AssemblyInfo.cs
+D:\Dhea_Bootcamp\learn\Day17-master\DebugAndTrace\obj\Debug\net7.0\DebugAndTrace.csproj.CoreCompileInputs.cache
+D:\Dhea_Bootcamp\learn\Day17-master\DebugAndTrace\obj\Debug\net7.0\DebugAndTrace.dll
+D:\Dhea_Bootcamp\learn\Day17-master\DebugAndTrace\obj\Debug\net7.0\refint\DebugAndTrace.dll
+D:\Dhea_Bootcamp\learn\Day17-master\DebugAndTrace\obj\Debug\net7.0\DebugAndTrace.pdb
+D:\Dhea_Bootcamp\learn\Day17-master\DebugAndTrace\obj\Debug\net7.0\DebugAndTrace.genruntimeconfig.cache
+D:\Dhea_Bootcamp\learn\Day17-master\DebugAndTrace\obj\Debug\net7.0\ref\DebugAndTrace.dll

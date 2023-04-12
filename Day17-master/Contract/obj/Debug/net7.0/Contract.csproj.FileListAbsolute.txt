@@ -1,0 +1,30 @@
+c:\C#\Bootcamp\vscode\Day 17\Contract\bin\Debug\net7.0\Contract.exe
+c:\C#\Bootcamp\vscode\Day 17\Contract\bin\Debug\net7.0\Contract.deps.json
+c:\C#\Bootcamp\vscode\Day 17\Contract\bin\Debug\net7.0\Contract.runtimeconfig.json
+c:\C#\Bootcamp\vscode\Day 17\Contract\bin\Debug\net7.0\Contract.dll
+c:\C#\Bootcamp\vscode\Day 17\Contract\bin\Debug\net7.0\Contract.pdb
+c:\C#\Bootcamp\vscode\Day 17\Contract\obj\Debug\net7.0\Contract.csproj.AssemblyReference.cache
+c:\C#\Bootcamp\vscode\Day 17\Contract\obj\Debug\net7.0\Contract.GeneratedMSBuildEditorConfig.editorconfig
+c:\C#\Bootcamp\vscode\Day 17\Contract\obj\Debug\net7.0\Contract.AssemblyInfoInputs.cache
+c:\C#\Bootcamp\vscode\Day 17\Contract\obj\Debug\net7.0\Contract.AssemblyInfo.cs
+c:\C#\Bootcamp\vscode\Day 17\Contract\obj\Debug\net7.0\Contract.csproj.CoreCompileInputs.cache
+c:\C#\Bootcamp\vscode\Day 17\Contract\obj\Debug\net7.0\Contract.dll
+c:\C#\Bootcamp\vscode\Day 17\Contract\obj\Debug\net7.0\refint\Contract.dll
+c:\C#\Bootcamp\vscode\Day 17\Contract\obj\Debug\net7.0\Contract.pdb
+c:\C#\Bootcamp\vscode\Day 17\Contract\obj\Debug\net7.0\Contract.genruntimeconfig.cache
+c:\C#\Bootcamp\vscode\Day 17\Contract\obj\Debug\net7.0\ref\Contract.dll
+d:\Dhea_Bootcamp\learn\Day17-master\Contract\bin\Debug\net7.0\Contract.exe
+d:\Dhea_Bootcamp\learn\Day17-master\Contract\bin\Debug\net7.0\Contract.deps.json
+d:\Dhea_Bootcamp\learn\Day17-master\Contract\bin\Debug\net7.0\Contract.runtimeconfig.json
+d:\Dhea_Bootcamp\learn\Day17-master\Contract\bin\Debug\net7.0\Contract.dll
+d:\Dhea_Bootcamp\learn\Day17-master\Contract\bin\Debug\net7.0\Contract.pdb
+d:\Dhea_Bootcamp\learn\Day17-master\Contract\obj\Debug\net7.0\Contract.csproj.AssemblyReference.cache
+d:\Dhea_Bootcamp\learn\Day17-master\Contract\obj\Debug\net7.0\Contract.GeneratedMSBuildEditorConfig.editorconfig
+d:\Dhea_Bootcamp\learn\Day17-master\Contract\obj\Debug\net7.0\Contract.AssemblyInfoInputs.cache
+d:\Dhea_Bootcamp\learn\Day17-master\Contract\obj\Debug\net7.0\Contract.AssemblyInfo.cs
+d:\Dhea_Bootcamp\learn\Day17-master\Contract\obj\Debug\net7.0\Contract.csproj.CoreCompileInputs.cache
+d:\Dhea_Bootcamp\learn\Day17-master\Contract\obj\Debug\net7.0\Contract.dll
+d:\Dhea_Bootcamp\learn\Day17-master\Contract\obj\Debug\net7.0\refint\Contract.dll
+d:\Dhea_Bootcamp\learn\Day17-master\Contract\obj\Debug\net7.0\Contract.pdb
+d:\Dhea_Bootcamp\learn\Day17-master\Contract\obj\Debug\net7.0\Contract.genruntimeconfig.cache
+d:\Dhea_Bootcamp\learn\Day17-master\Contract\obj\Debug\net7.0\ref\Contract.dll

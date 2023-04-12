@@ -1,0 +1,30 @@
+c:\C#\Bootcamp\vscode\Day 17\TraceListeners\bin\Debug\net7.0\TraceListeners.exe
+c:\C#\Bootcamp\vscode\Day 17\TraceListeners\bin\Debug\net7.0\TraceListeners.deps.json
+c:\C#\Bootcamp\vscode\Day 17\TraceListeners\bin\Debug\net7.0\TraceListeners.runtimeconfig.json
+c:\C#\Bootcamp\vscode\Day 17\TraceListeners\bin\Debug\net7.0\TraceListeners.dll
+c:\C#\Bootcamp\vscode\Day 17\TraceListeners\bin\Debug\net7.0\TraceListeners.pdb
+c:\C#\Bootcamp\vscode\Day 17\TraceListeners\obj\Debug\net7.0\TraceListeners.csproj.AssemblyReference.cache
+c:\C#\Bootcamp\vscode\Day 17\TraceListeners\obj\Debug\net7.0\TraceListeners.GeneratedMSBuildEditorConfig.editorconfig
+c:\C#\Bootcamp\vscode\Day 17\TraceListeners\obj\Debug\net7.0\TraceListeners.AssemblyInfoInputs.cache
+c:\C#\Bootcamp\vscode\Day 17\TraceListeners\obj\Debug\net7.0\TraceListeners.AssemblyInfo.cs
+c:\C#\Bootcamp\vscode\Day 17\TraceListeners\obj\Debug\net7.0\TraceListeners.csproj.CoreCompileInputs.cache
+c:\C#\Bootcamp\vscode\Day 17\TraceListeners\obj\Debug\net7.0\TraceListeners.dll
+c:\C#\Bootcamp\vscode\Day 17\TraceListeners\obj\Debug\net7.0\refint\TraceListeners.dll
+c:\C#\Bootcamp\vscode\Day 17\TraceListeners\obj\Debug\net7.0\TraceListeners.pdb
+c:\C#\Bootcamp\vscode\Day 17\TraceListeners\obj\Debug\net7.0\TraceListeners.genruntimeconfig.cache
+c:\C#\Bootcamp\vscode\Day 17\TraceListeners\obj\Debug\net7.0\ref\TraceListeners.dll
+d:\Dhea_Bootcamp\learn\Day17-master\TraceListeners\bin\Debug\net7.0\TraceListeners.exe
+d:\Dhea_Bootcamp\learn\Day17-master\TraceListeners\bin\Debug\net7.0\TraceListeners.deps.json
+d:\Dhea_Bootcamp\learn\Day17-master\TraceListeners\bin\Debug\net7.0\TraceListeners.runtimeconfig.json
+d:\Dhea_Bootcamp\learn\Day17-master\TraceListeners\bin\Debug\net7.0\TraceListeners.dll
+d:\Dhea_Bootcamp\learn\Day17-master\TraceListeners\bin\Debug\net7.0\TraceListeners.pdb
+d:\Dhea_Bootcamp\learn\Day17-master\TraceListeners\obj\Debug\net7.0\TraceListeners.csproj.AssemblyReference.cache
+d:\Dhea_Bootcamp\learn\Day17-master\TraceListeners\obj\Debug\net7.0\TraceListeners.GeneratedMSBuildEditorConfig.editorconfig
+d:\Dhea_Bootcamp\learn\Day17-master\TraceListeners\obj\Debug\net7.0\TraceListeners.AssemblyInfoInputs.cache
+d:\Dhea_Bootcamp\learn\Day17-master\TraceListeners\obj\Debug\net7.0\TraceListeners.AssemblyInfo.cs
+d:\Dhea_Bootcamp\learn\Day17-master\TraceListeners\obj\Debug\net7.0\TraceListeners.csproj.CoreCompileInputs.cache
+d:\Dhea_Bootcamp\learn\Day17-master\TraceListeners\obj\Debug\net7.0\TraceListeners.dll
+d:\Dhea_Bootcamp\learn\Day17-master\TraceListeners\obj\Debug\net7.0\refint\TraceListeners.dll
+d:\Dhea_Bootcamp\learn\Day17-master\TraceListeners\obj\Debug\net7.0\TraceListeners.pdb
+d:\Dhea_Bootcamp\learn\Day17-master\TraceListeners\obj\Debug\net7.0\TraceListeners.genruntimeconfig.cache
+d:\Dhea_Bootcamp\learn\Day17-master\TraceListeners\obj\Debug\net7.0\ref\TraceListeners.dll

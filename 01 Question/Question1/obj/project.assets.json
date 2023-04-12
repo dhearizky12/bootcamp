@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Dhea_Bootcamp\\learn\\Question\\Question1\\Question1.csproj",
+      "projectUniqueName": "D:\\Dhea_Bootcamp\\learn\\01 Question\\Question1\\Question1.csproj",
       "projectName": "Question1",
-      "projectPath": "D:\\Dhea_Bootcamp\\learn\\Question\\Question1\\Question1.csproj",
+      "projectPath": "D:\\Dhea_Bootcamp\\learn\\01 Question\\Question1\\Question1.csproj",
       "packagesPath": "C:\\Users\\Formulatrix\\.nuget\\packages\\",
-      "outputPath": "D:\\Dhea_Bootcamp\\learn\\Question\\Question1\\obj\\",
+      "outputPath": "D:\\Dhea_Bootcamp\\learn\\01 Question\\Question1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Formulatrix\\AppData\\Roaming\\NuGet\\NuGet.Config"
