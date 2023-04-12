@@ -1,0 +1,15 @@
+d:\Dhea_Bootcamp\learn\18 pertemuan 15\random\bin\Debug\net7.0\random.exe
+d:\Dhea_Bootcamp\learn\18 pertemuan 15\random\bin\Debug\net7.0\random.deps.json
+d:\Dhea_Bootcamp\learn\18 pertemuan 15\random\bin\Debug\net7.0\random.runtimeconfig.json
+d:\Dhea_Bootcamp\learn\18 pertemuan 15\random\bin\Debug\net7.0\random.dll
+d:\Dhea_Bootcamp\learn\18 pertemuan 15\random\bin\Debug\net7.0\random.pdb
+d:\Dhea_Bootcamp\learn\18 pertemuan 15\random\obj\Debug\net7.0\random.csproj.AssemblyReference.cache
+d:\Dhea_Bootcamp\learn\18 pertemuan 15\random\obj\Debug\net7.0\random.GeneratedMSBuildEditorConfig.editorconfig
+d:\Dhea_Bootcamp\learn\18 pertemuan 15\random\obj\Debug\net7.0\random.AssemblyInfoInputs.cache
+d:\Dhea_Bootcamp\learn\18 pertemuan 15\random\obj\Debug\net7.0\random.AssemblyInfo.cs
+d:\Dhea_Bootcamp\learn\18 pertemuan 15\random\obj\Debug\net7.0\random.csproj.CoreCompileInputs.cache
+d:\Dhea_Bootcamp\learn\18 pertemuan 15\random\obj\Debug\net7.0\random.dll
+d:\Dhea_Bootcamp\learn\18 pertemuan 15\random\obj\Debug\net7.0\refint\random.dll
+d:\Dhea_Bootcamp\learn\18 pertemuan 15\random\obj\Debug\net7.0\random.pdb
+d:\Dhea_Bootcamp\learn\18 pertemuan 15\random\obj\Debug\net7.0\random.genruntimeconfig.cache
+d:\Dhea_Bootcamp\learn\18 pertemuan 15\random\obj\Debug\net7.0\ref\random.dll

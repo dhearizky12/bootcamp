@@ -1,0 +1,15 @@
+D:\Dhea_Bootcamp\learn\11 pertemuan 7\08_Delegate_Subscriber\bin\Debug\net7.0\08_Delegate_Subscriber.exe
+D:\Dhea_Bootcamp\learn\11 pertemuan 7\08_Delegate_Subscriber\bin\Debug\net7.0\08_Delegate_Subscriber.deps.json
+D:\Dhea_Bootcamp\learn\11 pertemuan 7\08_Delegate_Subscriber\bin\Debug\net7.0\08_Delegate_Subscriber.runtimeconfig.json
+D:\Dhea_Bootcamp\learn\11 pertemuan 7\08_Delegate_Subscriber\bin\Debug\net7.0\08_Delegate_Subscriber.dll
+D:\Dhea_Bootcamp\learn\11 pertemuan 7\08_Delegate_Subscriber\bin\Debug\net7.0\08_Delegate_Subscriber.pdb
+D:\Dhea_Bootcamp\learn\11 pertemuan 7\08_Delegate_Subscriber\obj\Debug\net7.0\08_Delegate_Subscriber.csproj.AssemblyReference.cache
+D:\Dhea_Bootcamp\learn\11 pertemuan 7\08_Delegate_Subscriber\obj\Debug\net7.0\08_Delegate_Subscriber.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dhea_Bootcamp\learn\11 pertemuan 7\08_Delegate_Subscriber\obj\Debug\net7.0\08_Delegate_Subscriber.AssemblyInfoInputs.cache
+D:\Dhea_Bootcamp\learn\11 pertemuan 7\08_Delegate_Subscriber\obj\Debug\net7.0\08_Delegate_Subscriber.AssemblyInfo.cs
+D:\Dhea_Bootcamp\learn\11 pertemuan 7\08_Delegate_Subscriber\obj\Debug\net7.0\08_Delegate_Subscriber.csproj.CoreCompileInputs.cache
+D:\Dhea_Bootcamp\learn\11 pertemuan 7\08_Delegate_Subscriber\obj\Debug\net7.0\08_Delegate_Subscriber.dll
+D:\Dhea_Bootcamp\learn\11 pertemuan 7\08_Delegate_Subscriber\obj\Debug\net7.0\refint\08_Delegate_Subscriber.dll
+D:\Dhea_Bootcamp\learn\11 pertemuan 7\08_Delegate_Subscriber\obj\Debug\net7.0\08_Delegate_Subscriber.pdb
+D:\Dhea_Bootcamp\learn\11 pertemuan 7\08_Delegate_Subscriber\obj\Debug\net7.0\08_Delegate_Subscriber.genruntimeconfig.cache
+D:\Dhea_Bootcamp\learn\11 pertemuan 7\08_Delegate_Subscriber\obj\Debug\net7.0\ref\08_Delegate_Subscriber.dll

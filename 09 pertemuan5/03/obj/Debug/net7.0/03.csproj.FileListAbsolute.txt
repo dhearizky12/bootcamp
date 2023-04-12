@@ -1,0 +1,15 @@
+D:\Dhea_Bootcamp\learn\pertemuan5\03\obj\Debug\net7.0\03.csproj.AssemblyReference.cache
+D:\Dhea_Bootcamp\learn\pertemuan5\03\obj\Debug\net7.0\03.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dhea_Bootcamp\learn\pertemuan5\03\obj\Debug\net7.0\03.AssemblyInfoInputs.cache
+D:\Dhea_Bootcamp\learn\pertemuan5\03\obj\Debug\net7.0\03.AssemblyInfo.cs
+D:\Dhea_Bootcamp\learn\pertemuan5\03\obj\Debug\net7.0\03.csproj.CoreCompileInputs.cache
+D:\Dhea_Bootcamp\learn\pertemuan5\03\bin\Debug\net7.0\03.exe
+D:\Dhea_Bootcamp\learn\pertemuan5\03\bin\Debug\net7.0\03.deps.json
+D:\Dhea_Bootcamp\learn\pertemuan5\03\bin\Debug\net7.0\03.runtimeconfig.json
+D:\Dhea_Bootcamp\learn\pertemuan5\03\bin\Debug\net7.0\03.dll
+D:\Dhea_Bootcamp\learn\pertemuan5\03\bin\Debug\net7.0\03.pdb
+D:\Dhea_Bootcamp\learn\pertemuan5\03\obj\Debug\net7.0\03.dll
+D:\Dhea_Bootcamp\learn\pertemuan5\03\obj\Debug\net7.0\refint\03.dll
+D:\Dhea_Bootcamp\learn\pertemuan5\03\obj\Debug\net7.0\03.pdb
+D:\Dhea_Bootcamp\learn\pertemuan5\03\obj\Debug\net7.0\03.genruntimeconfig.cache
+D:\Dhea_Bootcamp\learn\pertemuan5\03\obj\Debug\net7.0\ref\03.dll

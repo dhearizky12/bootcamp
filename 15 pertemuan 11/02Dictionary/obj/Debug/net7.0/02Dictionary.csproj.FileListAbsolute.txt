@@ -1,0 +1,15 @@
+d:\Dhea_Bootcamp\learn\15 pertemuan 11\02Dictionary\obj\Debug\net7.0\02Dictionary.csproj.AssemblyReference.cache
+d:\Dhea_Bootcamp\learn\15 pertemuan 11\02Dictionary\obj\Debug\net7.0\02Dictionary.GeneratedMSBuildEditorConfig.editorconfig
+d:\Dhea_Bootcamp\learn\15 pertemuan 11\02Dictionary\obj\Debug\net7.0\02Dictionary.AssemblyInfoInputs.cache
+d:\Dhea_Bootcamp\learn\15 pertemuan 11\02Dictionary\obj\Debug\net7.0\02Dictionary.AssemblyInfo.cs
+d:\Dhea_Bootcamp\learn\15 pertemuan 11\02Dictionary\obj\Debug\net7.0\02Dictionary.csproj.CoreCompileInputs.cache
+d:\Dhea_Bootcamp\learn\15 pertemuan 11\02Dictionary\bin\Debug\net7.0\02Dictionary.exe
+d:\Dhea_Bootcamp\learn\15 pertemuan 11\02Dictionary\bin\Debug\net7.0\02Dictionary.deps.json
+d:\Dhea_Bootcamp\learn\15 pertemuan 11\02Dictionary\bin\Debug\net7.0\02Dictionary.runtimeconfig.json
+d:\Dhea_Bootcamp\learn\15 pertemuan 11\02Dictionary\bin\Debug\net7.0\02Dictionary.dll
+d:\Dhea_Bootcamp\learn\15 pertemuan 11\02Dictionary\bin\Debug\net7.0\02Dictionary.pdb
+d:\Dhea_Bootcamp\learn\15 pertemuan 11\02Dictionary\obj\Debug\net7.0\02Dictionary.dll
+d:\Dhea_Bootcamp\learn\15 pertemuan 11\02Dictionary\obj\Debug\net7.0\refint\02Dictionary.dll
+d:\Dhea_Bootcamp\learn\15 pertemuan 11\02Dictionary\obj\Debug\net7.0\02Dictionary.pdb
+d:\Dhea_Bootcamp\learn\15 pertemuan 11\02Dictionary\obj\Debug\net7.0\02Dictionary.genruntimeconfig.cache
+d:\Dhea_Bootcamp\learn\15 pertemuan 11\02Dictionary\obj\Debug\net7.0\ref\02Dictionary.dll

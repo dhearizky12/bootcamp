@@ -1,0 +1,15 @@
+D:\Dhea_Bootcamp\learn\12 pertemuan 8\02 TryAndCatch\bin\Debug\net7.0\02 TryAndCatch.exe
+d:\Dhea_Bootcamp\learn\12 pertemuan 8\02 TryAndCatch\bin\Debug\net7.0\02 TryAndCatch.deps.json
+d:\Dhea_Bootcamp\learn\12 pertemuan 8\02 TryAndCatch\bin\Debug\net7.0\02 TryAndCatch.runtimeconfig.json
+D:\Dhea_Bootcamp\learn\12 pertemuan 8\02 TryAndCatch\bin\Debug\net7.0\02 TryAndCatch.dll
+D:\Dhea_Bootcamp\learn\12 pertemuan 8\02 TryAndCatch\bin\Debug\net7.0\02 TryAndCatch.pdb
+D:\Dhea_Bootcamp\learn\12 pertemuan 8\02 TryAndCatch\obj\Debug\net7.0\02 TryAndCatch.csproj.AssemblyReference.cache
+D:\Dhea_Bootcamp\learn\12 pertemuan 8\02 TryAndCatch\obj\Debug\net7.0\02 TryAndCatch.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dhea_Bootcamp\learn\12 pertemuan 8\02 TryAndCatch\obj\Debug\net7.0\02 TryAndCatch.AssemblyInfoInputs.cache
+D:\Dhea_Bootcamp\learn\12 pertemuan 8\02 TryAndCatch\obj\Debug\net7.0\02 TryAndCatch.AssemblyInfo.cs
+D:\Dhea_Bootcamp\learn\12 pertemuan 8\02 TryAndCatch\obj\Debug\net7.0\02 TryAndCatch.csproj.CoreCompileInputs.cache
+D:\Dhea_Bootcamp\learn\12 pertemuan 8\02 TryAndCatch\obj\Debug\net7.0\02 TryAndCatch.dll
+D:\Dhea_Bootcamp\learn\12 pertemuan 8\02 TryAndCatch\obj\Debug\net7.0\refint\02 TryAndCatch.dll
+D:\Dhea_Bootcamp\learn\12 pertemuan 8\02 TryAndCatch\obj\Debug\net7.0\02 TryAndCatch.pdb
+d:\Dhea_Bootcamp\learn\12 pertemuan 8\02 TryAndCatch\obj\Debug\net7.0\02 TryAndCatch.genruntimeconfig.cache
+d:\Dhea_Bootcamp\learn\12 pertemuan 8\02 TryAndCatch\obj\Debug\net7.0\ref\02 TryAndCatch.dll

@@ -1,0 +1,15 @@
+d:\Dhea_Bootcamp\learn\16 pertmuan 12\02Random2\bin\Debug\net7.0\02Random2.exe
+d:\Dhea_Bootcamp\learn\16 pertmuan 12\02Random2\bin\Debug\net7.0\02Random2.deps.json
+d:\Dhea_Bootcamp\learn\16 pertmuan 12\02Random2\bin\Debug\net7.0\02Random2.runtimeconfig.json
+d:\Dhea_Bootcamp\learn\16 pertmuan 12\02Random2\bin\Debug\net7.0\02Random2.dll
+d:\Dhea_Bootcamp\learn\16 pertmuan 12\02Random2\bin\Debug\net7.0\02Random2.pdb
+d:\Dhea_Bootcamp\learn\16 pertmuan 12\02Random2\obj\Debug\net7.0\02Random2.csproj.AssemblyReference.cache
+d:\Dhea_Bootcamp\learn\16 pertmuan 12\02Random2\obj\Debug\net7.0\02Random2.GeneratedMSBuildEditorConfig.editorconfig
+d:\Dhea_Bootcamp\learn\16 pertmuan 12\02Random2\obj\Debug\net7.0\02Random2.AssemblyInfoInputs.cache
+d:\Dhea_Bootcamp\learn\16 pertmuan 12\02Random2\obj\Debug\net7.0\02Random2.AssemblyInfo.cs
+d:\Dhea_Bootcamp\learn\16 pertmuan 12\02Random2\obj\Debug\net7.0\02Random2.csproj.CoreCompileInputs.cache
+d:\Dhea_Bootcamp\learn\16 pertmuan 12\02Random2\obj\Debug\net7.0\02Random2.dll
+d:\Dhea_Bootcamp\learn\16 pertmuan 12\02Random2\obj\Debug\net7.0\refint\02Random2.dll
+d:\Dhea_Bootcamp\learn\16 pertmuan 12\02Random2\obj\Debug\net7.0\02Random2.pdb
+d:\Dhea_Bootcamp\learn\16 pertmuan 12\02Random2\obj\Debug\net7.0\02Random2.genruntimeconfig.cache
+d:\Dhea_Bootcamp\learn\16 pertmuan 12\02Random2\obj\Debug\net7.0\ref\02Random2.dll

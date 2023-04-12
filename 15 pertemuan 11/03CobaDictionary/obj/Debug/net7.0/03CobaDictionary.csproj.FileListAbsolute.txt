@@ -1,0 +1,15 @@
+d:\Dhea_Bootcamp\learn\15 pertemuan 11\03CobaDictionary\bin\Debug\net7.0\03CobaDictionary.exe
+d:\Dhea_Bootcamp\learn\15 pertemuan 11\03CobaDictionary\bin\Debug\net7.0\03CobaDictionary.deps.json
+d:\Dhea_Bootcamp\learn\15 pertemuan 11\03CobaDictionary\bin\Debug\net7.0\03CobaDictionary.runtimeconfig.json
+d:\Dhea_Bootcamp\learn\15 pertemuan 11\03CobaDictionary\bin\Debug\net7.0\03CobaDictionary.dll
+d:\Dhea_Bootcamp\learn\15 pertemuan 11\03CobaDictionary\bin\Debug\net7.0\03CobaDictionary.pdb
+d:\Dhea_Bootcamp\learn\15 pertemuan 11\03CobaDictionary\obj\Debug\net7.0\03CobaDictionary.csproj.AssemblyReference.cache
+d:\Dhea_Bootcamp\learn\15 pertemuan 11\03CobaDictionary\obj\Debug\net7.0\03CobaDictionary.GeneratedMSBuildEditorConfig.editorconfig
+d:\Dhea_Bootcamp\learn\15 pertemuan 11\03CobaDictionary\obj\Debug\net7.0\03CobaDictionary.AssemblyInfoInputs.cache
+d:\Dhea_Bootcamp\learn\15 pertemuan 11\03CobaDictionary\obj\Debug\net7.0\03CobaDictionary.AssemblyInfo.cs
+d:\Dhea_Bootcamp\learn\15 pertemuan 11\03CobaDictionary\obj\Debug\net7.0\03CobaDictionary.csproj.CoreCompileInputs.cache
+d:\Dhea_Bootcamp\learn\15 pertemuan 11\03CobaDictionary\obj\Debug\net7.0\03CobaDictionary.dll
+d:\Dhea_Bootcamp\learn\15 pertemuan 11\03CobaDictionary\obj\Debug\net7.0\refint\03CobaDictionary.dll
+d:\Dhea_Bootcamp\learn\15 pertemuan 11\03CobaDictionary\obj\Debug\net7.0\03CobaDictionary.pdb
+d:\Dhea_Bootcamp\learn\15 pertemuan 11\03CobaDictionary\obj\Debug\net7.0\03CobaDictionary.genruntimeconfig.cache
+d:\Dhea_Bootcamp\learn\15 pertemuan 11\03CobaDictionary\obj\Debug\net7.0\ref\03CobaDictionary.dll

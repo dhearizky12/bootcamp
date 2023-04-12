@@ -1,0 +1,15 @@
+d:\Dhea_Bootcamp\learn\14 pertemuan 10\07CloneArrayList\bin\Debug\net7.0\07CloneArrayList.exe
+d:\Dhea_Bootcamp\learn\14 pertemuan 10\07CloneArrayList\bin\Debug\net7.0\07CloneArrayList.deps.json
+d:\Dhea_Bootcamp\learn\14 pertemuan 10\07CloneArrayList\bin\Debug\net7.0\07CloneArrayList.runtimeconfig.json
+d:\Dhea_Bootcamp\learn\14 pertemuan 10\07CloneArrayList\bin\Debug\net7.0\07CloneArrayList.dll
+d:\Dhea_Bootcamp\learn\14 pertemuan 10\07CloneArrayList\bin\Debug\net7.0\07CloneArrayList.pdb
+d:\Dhea_Bootcamp\learn\14 pertemuan 10\07CloneArrayList\obj\Debug\net7.0\07CloneArrayList.csproj.AssemblyReference.cache
+d:\Dhea_Bootcamp\learn\14 pertemuan 10\07CloneArrayList\obj\Debug\net7.0\07CloneArrayList.GeneratedMSBuildEditorConfig.editorconfig
+d:\Dhea_Bootcamp\learn\14 pertemuan 10\07CloneArrayList\obj\Debug\net7.0\07CloneArrayList.AssemblyInfoInputs.cache
+d:\Dhea_Bootcamp\learn\14 pertemuan 10\07CloneArrayList\obj\Debug\net7.0\07CloneArrayList.AssemblyInfo.cs
+d:\Dhea_Bootcamp\learn\14 pertemuan 10\07CloneArrayList\obj\Debug\net7.0\07CloneArrayList.csproj.CoreCompileInputs.cache
+d:\Dhea_Bootcamp\learn\14 pertemuan 10\07CloneArrayList\obj\Debug\net7.0\07CloneArrayList.dll
+d:\Dhea_Bootcamp\learn\14 pertemuan 10\07CloneArrayList\obj\Debug\net7.0\refint\07CloneArrayList.dll
+d:\Dhea_Bootcamp\learn\14 pertemuan 10\07CloneArrayList\obj\Debug\net7.0\07CloneArrayList.pdb
+d:\Dhea_Bootcamp\learn\14 pertemuan 10\07CloneArrayList\obj\Debug\net7.0\07CloneArrayList.genruntimeconfig.cache
+d:\Dhea_Bootcamp\learn\14 pertemuan 10\07CloneArrayList\obj\Debug\net7.0\ref\07CloneArrayList.dll

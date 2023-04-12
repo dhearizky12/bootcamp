@@ -1,0 +1,15 @@
+d:\Dhea_Bootcamp\learn\14 pertemuan 10\14ModifArrayList\bin\Debug\net7.0\14ModifArrayList.exe
+d:\Dhea_Bootcamp\learn\14 pertemuan 10\14ModifArrayList\bin\Debug\net7.0\14ModifArrayList.deps.json
+d:\Dhea_Bootcamp\learn\14 pertemuan 10\14ModifArrayList\bin\Debug\net7.0\14ModifArrayList.runtimeconfig.json
+d:\Dhea_Bootcamp\learn\14 pertemuan 10\14ModifArrayList\bin\Debug\net7.0\14ModifArrayList.dll
+d:\Dhea_Bootcamp\learn\14 pertemuan 10\14ModifArrayList\bin\Debug\net7.0\14ModifArrayList.pdb
+d:\Dhea_Bootcamp\learn\14 pertemuan 10\14ModifArrayList\obj\Debug\net7.0\14ModifArrayList.csproj.AssemblyReference.cache
+d:\Dhea_Bootcamp\learn\14 pertemuan 10\14ModifArrayList\obj\Debug\net7.0\14ModifArrayList.GeneratedMSBuildEditorConfig.editorconfig
+d:\Dhea_Bootcamp\learn\14 pertemuan 10\14ModifArrayList\obj\Debug\net7.0\14ModifArrayList.AssemblyInfoInputs.cache
+d:\Dhea_Bootcamp\learn\14 pertemuan 10\14ModifArrayList\obj\Debug\net7.0\14ModifArrayList.AssemblyInfo.cs
+d:\Dhea_Bootcamp\learn\14 pertemuan 10\14ModifArrayList\obj\Debug\net7.0\14ModifArrayList.csproj.CoreCompileInputs.cache
+d:\Dhea_Bootcamp\learn\14 pertemuan 10\14ModifArrayList\obj\Debug\net7.0\14ModifArrayList.dll
+d:\Dhea_Bootcamp\learn\14 pertemuan 10\14ModifArrayList\obj\Debug\net7.0\refint\14ModifArrayList.dll
+d:\Dhea_Bootcamp\learn\14 pertemuan 10\14ModifArrayList\obj\Debug\net7.0\14ModifArrayList.pdb
+d:\Dhea_Bootcamp\learn\14 pertemuan 10\14ModifArrayList\obj\Debug\net7.0\14ModifArrayList.genruntimeconfig.cache
+d:\Dhea_Bootcamp\learn\14 pertemuan 10\14ModifArrayList\obj\Debug\net7.0\ref\14ModifArrayList.dll

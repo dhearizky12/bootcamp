@@ -1,0 +1,15 @@
+d:\Dhea_Bootcamp\learn\18 pertemuan 15\listOfSankesAndLadder\obj\Debug\net7.0\listOfSankesAndLadder.csproj.AssemblyReference.cache
+d:\Dhea_Bootcamp\learn\18 pertemuan 15\listOfSankesAndLadder\obj\Debug\net7.0\listOfSankesAndLadder.GeneratedMSBuildEditorConfig.editorconfig
+d:\Dhea_Bootcamp\learn\18 pertemuan 15\listOfSankesAndLadder\obj\Debug\net7.0\listOfSankesAndLadder.AssemblyInfoInputs.cache
+d:\Dhea_Bootcamp\learn\18 pertemuan 15\listOfSankesAndLadder\obj\Debug\net7.0\listOfSankesAndLadder.AssemblyInfo.cs
+d:\Dhea_Bootcamp\learn\18 pertemuan 15\listOfSankesAndLadder\obj\Debug\net7.0\listOfSankesAndLadder.csproj.CoreCompileInputs.cache
+d:\Dhea_Bootcamp\learn\18 pertemuan 15\listOfSankesAndLadder\bin\Debug\net7.0\listOfSankesAndLadder.exe
+d:\Dhea_Bootcamp\learn\18 pertemuan 15\listOfSankesAndLadder\bin\Debug\net7.0\listOfSankesAndLadder.deps.json
+d:\Dhea_Bootcamp\learn\18 pertemuan 15\listOfSankesAndLadder\bin\Debug\net7.0\listOfSankesAndLadder.runtimeconfig.json
+d:\Dhea_Bootcamp\learn\18 pertemuan 15\listOfSankesAndLadder\bin\Debug\net7.0\listOfSankesAndLadder.dll
+d:\Dhea_Bootcamp\learn\18 pertemuan 15\listOfSankesAndLadder\bin\Debug\net7.0\listOfSankesAndLadder.pdb
+d:\Dhea_Bootcamp\learn\18 pertemuan 15\listOfSankesAndLadder\obj\Debug\net7.0\listOfSankesAndLadder.dll
+d:\Dhea_Bootcamp\learn\18 pertemuan 15\listOfSankesAndLadder\obj\Debug\net7.0\refint\listOfSankesAndLadder.dll
+d:\Dhea_Bootcamp\learn\18 pertemuan 15\listOfSankesAndLadder\obj\Debug\net7.0\listOfSankesAndLadder.pdb
+d:\Dhea_Bootcamp\learn\18 pertemuan 15\listOfSankesAndLadder\obj\Debug\net7.0\listOfSankesAndLadder.genruntimeconfig.cache
+d:\Dhea_Bootcamp\learn\18 pertemuan 15\listOfSankesAndLadder\obj\Debug\net7.0\ref\listOfSankesAndLadder.dll

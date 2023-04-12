@@ -1,0 +1,15 @@
+D:\Dhea_Bootcamp\learn\10 pertemuan 6\05\bin\Debug\net7.0\05.exe
+D:\Dhea_Bootcamp\learn\10 pertemuan 6\05\bin\Debug\net7.0\05.deps.json
+D:\Dhea_Bootcamp\learn\10 pertemuan 6\05\bin\Debug\net7.0\05.runtimeconfig.json
+D:\Dhea_Bootcamp\learn\10 pertemuan 6\05\bin\Debug\net7.0\05.dll
+D:\Dhea_Bootcamp\learn\10 pertemuan 6\05\bin\Debug\net7.0\05.pdb
+D:\Dhea_Bootcamp\learn\10 pertemuan 6\05\obj\Debug\net7.0\05.csproj.AssemblyReference.cache
+D:\Dhea_Bootcamp\learn\10 pertemuan 6\05\obj\Debug\net7.0\05.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dhea_Bootcamp\learn\10 pertemuan 6\05\obj\Debug\net7.0\05.AssemblyInfoInputs.cache
+D:\Dhea_Bootcamp\learn\10 pertemuan 6\05\obj\Debug\net7.0\05.AssemblyInfo.cs
+D:\Dhea_Bootcamp\learn\10 pertemuan 6\05\obj\Debug\net7.0\05.csproj.CoreCompileInputs.cache
+D:\Dhea_Bootcamp\learn\10 pertemuan 6\05\obj\Debug\net7.0\05.dll
+D:\Dhea_Bootcamp\learn\10 pertemuan 6\05\obj\Debug\net7.0\refint\05.dll
+D:\Dhea_Bootcamp\learn\10 pertemuan 6\05\obj\Debug\net7.0\05.pdb
+D:\Dhea_Bootcamp\learn\10 pertemuan 6\05\obj\Debug\net7.0\05.genruntimeconfig.cache
+D:\Dhea_Bootcamp\learn\10 pertemuan 6\05\obj\Debug\net7.0\ref\05.dll

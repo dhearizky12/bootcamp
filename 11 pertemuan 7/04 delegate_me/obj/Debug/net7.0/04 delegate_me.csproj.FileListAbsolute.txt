@@ -1,0 +1,15 @@
+D:\Dhea_Bootcamp\learn\11 pertemuan 7\04 delegate_me\obj\Debug\net7.0\04 delegate_me.csproj.AssemblyReference.cache
+D:\Dhea_Bootcamp\learn\11 pertemuan 7\04 delegate_me\obj\Debug\net7.0\04 delegate_me.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dhea_Bootcamp\learn\11 pertemuan 7\04 delegate_me\obj\Debug\net7.0\04 delegate_me.AssemblyInfoInputs.cache
+D:\Dhea_Bootcamp\learn\11 pertemuan 7\04 delegate_me\obj\Debug\net7.0\04 delegate_me.AssemblyInfo.cs
+D:\Dhea_Bootcamp\learn\11 pertemuan 7\04 delegate_me\obj\Debug\net7.0\04 delegate_me.csproj.CoreCompileInputs.cache
+D:\Dhea_Bootcamp\learn\11 pertemuan 7\04 delegate_me\bin\Debug\net7.0\04 delegate_me.exe
+D:\Dhea_Bootcamp\learn\11 pertemuan 7\04 delegate_me\bin\Debug\net7.0\04 delegate_me.deps.json
+D:\Dhea_Bootcamp\learn\11 pertemuan 7\04 delegate_me\bin\Debug\net7.0\04 delegate_me.runtimeconfig.json
+D:\Dhea_Bootcamp\learn\11 pertemuan 7\04 delegate_me\bin\Debug\net7.0\04 delegate_me.dll
+D:\Dhea_Bootcamp\learn\11 pertemuan 7\04 delegate_me\bin\Debug\net7.0\04 delegate_me.pdb
+D:\Dhea_Bootcamp\learn\11 pertemuan 7\04 delegate_me\obj\Debug\net7.0\04 delegate_me.dll
+D:\Dhea_Bootcamp\learn\11 pertemuan 7\04 delegate_me\obj\Debug\net7.0\refint\04 delegate_me.dll
+D:\Dhea_Bootcamp\learn\11 pertemuan 7\04 delegate_me\obj\Debug\net7.0\04 delegate_me.pdb
+D:\Dhea_Bootcamp\learn\11 pertemuan 7\04 delegate_me\obj\Debug\net7.0\04 delegate_me.genruntimeconfig.cache
+D:\Dhea_Bootcamp\learn\11 pertemuan 7\04 delegate_me\obj\Debug\net7.0\ref\04 delegate_me.dll

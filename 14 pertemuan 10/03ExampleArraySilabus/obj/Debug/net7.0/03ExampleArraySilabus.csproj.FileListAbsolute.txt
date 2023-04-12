@@ -1,0 +1,5 @@
+D:\Dhea_Bootcamp\learn\14 pertemuan 10\03ExampleArraySilabus\obj\Debug\net7.0\03ExampleArraySilabus.csproj.AssemblyReference.cache
+D:\Dhea_Bootcamp\learn\14 pertemuan 10\03ExampleArraySilabus\obj\Debug\net7.0\03ExampleArraySilabus.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dhea_Bootcamp\learn\14 pertemuan 10\03ExampleArraySilabus\obj\Debug\net7.0\03ExampleArraySilabus.AssemblyInfoInputs.cache
+D:\Dhea_Bootcamp\learn\14 pertemuan 10\03ExampleArraySilabus\obj\Debug\net7.0\03ExampleArraySilabus.AssemblyInfo.cs
+D:\Dhea_Bootcamp\learn\14 pertemuan 10\03ExampleArraySilabus\obj\Debug\net7.0\03ExampleArraySilabus.csproj.CoreCompileInputs.cache

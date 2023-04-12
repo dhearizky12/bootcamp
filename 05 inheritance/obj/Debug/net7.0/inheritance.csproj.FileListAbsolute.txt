@@ -1,0 +1,15 @@
+D:\Dhea_Bootcamp\learn\inheritance\bin\Debug\net7.0\inheritance.exe
+D:\Dhea_Bootcamp\learn\inheritance\bin\Debug\net7.0\inheritance.deps.json
+D:\Dhea_Bootcamp\learn\inheritance\bin\Debug\net7.0\inheritance.runtimeconfig.json
+D:\Dhea_Bootcamp\learn\inheritance\bin\Debug\net7.0\inheritance.dll
+D:\Dhea_Bootcamp\learn\inheritance\bin\Debug\net7.0\inheritance.pdb
+D:\Dhea_Bootcamp\learn\inheritance\obj\Debug\net7.0\inheritance.csproj.AssemblyReference.cache
+D:\Dhea_Bootcamp\learn\inheritance\obj\Debug\net7.0\inheritance.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dhea_Bootcamp\learn\inheritance\obj\Debug\net7.0\inheritance.AssemblyInfoInputs.cache
+D:\Dhea_Bootcamp\learn\inheritance\obj\Debug\net7.0\inheritance.AssemblyInfo.cs
+D:\Dhea_Bootcamp\learn\inheritance\obj\Debug\net7.0\inheritance.csproj.CoreCompileInputs.cache
+D:\Dhea_Bootcamp\learn\inheritance\obj\Debug\net7.0\inheritance.dll
+D:\Dhea_Bootcamp\learn\inheritance\obj\Debug\net7.0\refint\inheritance.dll
+D:\Dhea_Bootcamp\learn\inheritance\obj\Debug\net7.0\inheritance.pdb
+D:\Dhea_Bootcamp\learn\inheritance\obj\Debug\net7.0\inheritance.genruntimeconfig.cache
+D:\Dhea_Bootcamp\learn\inheritance\obj\Debug\net7.0\ref\inheritance.dll

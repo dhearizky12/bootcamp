@@ -1,0 +1,15 @@
+D:\Dhea_Bootcamp\learn\12 pertemuan 8\05_overloading\bin\Debug\net7.0\05_overloading.exe
+d:\Dhea_Bootcamp\learn\12 pertemuan 8\05_overloading\bin\Debug\net7.0\05_overloading.deps.json
+d:\Dhea_Bootcamp\learn\12 pertemuan 8\05_overloading\bin\Debug\net7.0\05_overloading.runtimeconfig.json
+D:\Dhea_Bootcamp\learn\12 pertemuan 8\05_overloading\bin\Debug\net7.0\05_overloading.dll
+D:\Dhea_Bootcamp\learn\12 pertemuan 8\05_overloading\bin\Debug\net7.0\05_overloading.pdb
+D:\Dhea_Bootcamp\learn\12 pertemuan 8\05_overloading\obj\Debug\net7.0\05_overloading.csproj.AssemblyReference.cache
+D:\Dhea_Bootcamp\learn\12 pertemuan 8\05_overloading\obj\Debug\net7.0\05_overloading.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dhea_Bootcamp\learn\12 pertemuan 8\05_overloading\obj\Debug\net7.0\05_overloading.AssemblyInfoInputs.cache
+D:\Dhea_Bootcamp\learn\12 pertemuan 8\05_overloading\obj\Debug\net7.0\05_overloading.AssemblyInfo.cs
+D:\Dhea_Bootcamp\learn\12 pertemuan 8\05_overloading\obj\Debug\net7.0\05_overloading.csproj.CoreCompileInputs.cache
+D:\Dhea_Bootcamp\learn\12 pertemuan 8\05_overloading\obj\Debug\net7.0\05_overloading.dll
+D:\Dhea_Bootcamp\learn\12 pertemuan 8\05_overloading\obj\Debug\net7.0\refint\05_overloading.dll
+D:\Dhea_Bootcamp\learn\12 pertemuan 8\05_overloading\obj\Debug\net7.0\05_overloading.pdb
+d:\Dhea_Bootcamp\learn\12 pertemuan 8\05_overloading\obj\Debug\net7.0\05_overloading.genruntimeconfig.cache
+d:\Dhea_Bootcamp\learn\12 pertemuan 8\05_overloading\obj\Debug\net7.0\ref\05_overloading.dll

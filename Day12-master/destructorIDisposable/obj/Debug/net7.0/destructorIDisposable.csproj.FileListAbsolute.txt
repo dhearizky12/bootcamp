@@ -1,0 +1,15 @@
+d:\Dhea_Bootcamp\learn\Day12-master\destructorIDisposable\bin\Debug\net7.0\destructorIDisposable.exe
+d:\Dhea_Bootcamp\learn\Day12-master\destructorIDisposable\bin\Debug\net7.0\destructorIDisposable.deps.json
+d:\Dhea_Bootcamp\learn\Day12-master\destructorIDisposable\bin\Debug\net7.0\destructorIDisposable.runtimeconfig.json
+d:\Dhea_Bootcamp\learn\Day12-master\destructorIDisposable\bin\Debug\net7.0\destructorIDisposable.dll
+d:\Dhea_Bootcamp\learn\Day12-master\destructorIDisposable\bin\Debug\net7.0\destructorIDisposable.pdb
+d:\Dhea_Bootcamp\learn\Day12-master\destructorIDisposable\obj\Debug\net7.0\destructorIDisposable.csproj.AssemblyReference.cache
+d:\Dhea_Bootcamp\learn\Day12-master\destructorIDisposable\obj\Debug\net7.0\destructorIDisposable.GeneratedMSBuildEditorConfig.editorconfig
+d:\Dhea_Bootcamp\learn\Day12-master\destructorIDisposable\obj\Debug\net7.0\destructorIDisposable.AssemblyInfoInputs.cache
+d:\Dhea_Bootcamp\learn\Day12-master\destructorIDisposable\obj\Debug\net7.0\destructorIDisposable.AssemblyInfo.cs
+d:\Dhea_Bootcamp\learn\Day12-master\destructorIDisposable\obj\Debug\net7.0\destructorIDisposable.csproj.CoreCompileInputs.cache
+d:\Dhea_Bootcamp\learn\Day12-master\destructorIDisposable\obj\Debug\net7.0\destructorIDisposable.dll
+d:\Dhea_Bootcamp\learn\Day12-master\destructorIDisposable\obj\Debug\net7.0\refint\destructorIDisposable.dll
+d:\Dhea_Bootcamp\learn\Day12-master\destructorIDisposable\obj\Debug\net7.0\destructorIDisposable.pdb
+d:\Dhea_Bootcamp\learn\Day12-master\destructorIDisposable\obj\Debug\net7.0\destructorIDisposable.genruntimeconfig.cache
+d:\Dhea_Bootcamp\learn\Day12-master\destructorIDisposable\obj\Debug\net7.0\ref\destructorIDisposable.dll

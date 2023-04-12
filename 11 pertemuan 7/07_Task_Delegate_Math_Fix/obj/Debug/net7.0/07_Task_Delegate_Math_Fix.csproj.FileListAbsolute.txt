@@ -1,0 +1,15 @@
+D:\Dhea_Bootcamp\learn\11 pertemuan 7\07_Task_Delegate_Math_Fix\obj\Debug\net7.0\07_Task_Delegate_Math_Fix.csproj.AssemblyReference.cache
+D:\Dhea_Bootcamp\learn\11 pertemuan 7\07_Task_Delegate_Math_Fix\obj\Debug\net7.0\07_Task_Delegate_Math_Fix.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dhea_Bootcamp\learn\11 pertemuan 7\07_Task_Delegate_Math_Fix\obj\Debug\net7.0\07_Task_Delegate_Math_Fix.AssemblyInfoInputs.cache
+D:\Dhea_Bootcamp\learn\11 pertemuan 7\07_Task_Delegate_Math_Fix\obj\Debug\net7.0\07_Task_Delegate_Math_Fix.AssemblyInfo.cs
+D:\Dhea_Bootcamp\learn\11 pertemuan 7\07_Task_Delegate_Math_Fix\obj\Debug\net7.0\07_Task_Delegate_Math_Fix.csproj.CoreCompileInputs.cache
+D:\Dhea_Bootcamp\learn\11 pertemuan 7\07_Task_Delegate_Math_Fix\bin\Debug\net7.0\07_Task_Delegate_Math_Fix.exe
+D:\Dhea_Bootcamp\learn\11 pertemuan 7\07_Task_Delegate_Math_Fix\bin\Debug\net7.0\07_Task_Delegate_Math_Fix.deps.json
+D:\Dhea_Bootcamp\learn\11 pertemuan 7\07_Task_Delegate_Math_Fix\bin\Debug\net7.0\07_Task_Delegate_Math_Fix.runtimeconfig.json
+D:\Dhea_Bootcamp\learn\11 pertemuan 7\07_Task_Delegate_Math_Fix\bin\Debug\net7.0\07_Task_Delegate_Math_Fix.dll
+D:\Dhea_Bootcamp\learn\11 pertemuan 7\07_Task_Delegate_Math_Fix\bin\Debug\net7.0\07_Task_Delegate_Math_Fix.pdb
+D:\Dhea_Bootcamp\learn\11 pertemuan 7\07_Task_Delegate_Math_Fix\obj\Debug\net7.0\07_Task_Delegate_Math_Fix.dll
+D:\Dhea_Bootcamp\learn\11 pertemuan 7\07_Task_Delegate_Math_Fix\obj\Debug\net7.0\refint\07_Task_Delegate_Math_Fix.dll
+D:\Dhea_Bootcamp\learn\11 pertemuan 7\07_Task_Delegate_Math_Fix\obj\Debug\net7.0\07_Task_Delegate_Math_Fix.pdb
+D:\Dhea_Bootcamp\learn\11 pertemuan 7\07_Task_Delegate_Math_Fix\obj\Debug\net7.0\07_Task_Delegate_Math_Fix.genruntimeconfig.cache
+D:\Dhea_Bootcamp\learn\11 pertemuan 7\07_Task_Delegate_Math_Fix\obj\Debug\net7.0\ref\07_Task_Delegate_Math_Fix.dll

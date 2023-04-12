@@ -1,0 +1,15 @@
+d:\Dhea_Bootcamp\learn\Day12-master\05\bin\Debug\net7.0\05.exe
+d:\Dhea_Bootcamp\learn\Day12-master\05\bin\Debug\net7.0\05.deps.json
+d:\Dhea_Bootcamp\learn\Day12-master\05\bin\Debug\net7.0\05.runtimeconfig.json
+d:\Dhea_Bootcamp\learn\Day12-master\05\bin\Debug\net7.0\05.dll
+d:\Dhea_Bootcamp\learn\Day12-master\05\bin\Debug\net7.0\05.pdb
+d:\Dhea_Bootcamp\learn\Day12-master\05\obj\Debug\net7.0\05.csproj.AssemblyReference.cache
+d:\Dhea_Bootcamp\learn\Day12-master\05\obj\Debug\net7.0\05.GeneratedMSBuildEditorConfig.editorconfig
+d:\Dhea_Bootcamp\learn\Day12-master\05\obj\Debug\net7.0\05.AssemblyInfoInputs.cache
+d:\Dhea_Bootcamp\learn\Day12-master\05\obj\Debug\net7.0\05.AssemblyInfo.cs
+d:\Dhea_Bootcamp\learn\Day12-master\05\obj\Debug\net7.0\05.csproj.CoreCompileInputs.cache
+d:\Dhea_Bootcamp\learn\Day12-master\05\obj\Debug\net7.0\05.dll
+d:\Dhea_Bootcamp\learn\Day12-master\05\obj\Debug\net7.0\refint\05.dll
+d:\Dhea_Bootcamp\learn\Day12-master\05\obj\Debug\net7.0\05.pdb
+d:\Dhea_Bootcamp\learn\Day12-master\05\obj\Debug\net7.0\05.genruntimeconfig.cache
+d:\Dhea_Bootcamp\learn\Day12-master\05\obj\Debug\net7.0\ref\05.dll

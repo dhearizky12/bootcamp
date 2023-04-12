@@ -1,0 +1,30 @@
+c:\C#\Bootcamp\vscode\Day 12\Generation\bin\Debug\net7.0\Generation.exe
+c:\C#\Bootcamp\vscode\Day 12\Generation\bin\Debug\net7.0\Generation.deps.json
+c:\C#\Bootcamp\vscode\Day 12\Generation\bin\Debug\net7.0\Generation.runtimeconfig.json
+c:\C#\Bootcamp\vscode\Day 12\Generation\bin\Debug\net7.0\Generation.dll
+c:\C#\Bootcamp\vscode\Day 12\Generation\bin\Debug\net7.0\Generation.pdb
+c:\C#\Bootcamp\vscode\Day 12\Generation\obj\Debug\net7.0\Generation.csproj.AssemblyReference.cache
+c:\C#\Bootcamp\vscode\Day 12\Generation\obj\Debug\net7.0\Generation.GeneratedMSBuildEditorConfig.editorconfig
+c:\C#\Bootcamp\vscode\Day 12\Generation\obj\Debug\net7.0\Generation.AssemblyInfoInputs.cache
+c:\C#\Bootcamp\vscode\Day 12\Generation\obj\Debug\net7.0\Generation.AssemblyInfo.cs
+c:\C#\Bootcamp\vscode\Day 12\Generation\obj\Debug\net7.0\Generation.csproj.CoreCompileInputs.cache
+c:\C#\Bootcamp\vscode\Day 12\Generation\obj\Debug\net7.0\Generation.dll
+c:\C#\Bootcamp\vscode\Day 12\Generation\obj\Debug\net7.0\refint\Generation.dll
+c:\C#\Bootcamp\vscode\Day 12\Generation\obj\Debug\net7.0\Generation.pdb
+c:\C#\Bootcamp\vscode\Day 12\Generation\obj\Debug\net7.0\Generation.genruntimeconfig.cache
+c:\C#\Bootcamp\vscode\Day 12\Generation\obj\Debug\net7.0\ref\Generation.dll
+d:\Dhea_Bootcamp\learn\Day12-master\Generation\bin\Debug\net7.0\Generation.exe
+d:\Dhea_Bootcamp\learn\Day12-master\Generation\bin\Debug\net7.0\Generation.deps.json
+d:\Dhea_Bootcamp\learn\Day12-master\Generation\bin\Debug\net7.0\Generation.runtimeconfig.json
+d:\Dhea_Bootcamp\learn\Day12-master\Generation\bin\Debug\net7.0\Generation.dll
+d:\Dhea_Bootcamp\learn\Day12-master\Generation\bin\Debug\net7.0\Generation.pdb
+d:\Dhea_Bootcamp\learn\Day12-master\Generation\obj\Debug\net7.0\Generation.csproj.AssemblyReference.cache
+d:\Dhea_Bootcamp\learn\Day12-master\Generation\obj\Debug\net7.0\Generation.GeneratedMSBuildEditorConfig.editorconfig
+d:\Dhea_Bootcamp\learn\Day12-master\Generation\obj\Debug\net7.0\Generation.AssemblyInfoInputs.cache
+d:\Dhea_Bootcamp\learn\Day12-master\Generation\obj\Debug\net7.0\Generation.AssemblyInfo.cs
+d:\Dhea_Bootcamp\learn\Day12-master\Generation\obj\Debug\net7.0\Generation.csproj.CoreCompileInputs.cache
+d:\Dhea_Bootcamp\learn\Day12-master\Generation\obj\Debug\net7.0\Generation.dll
+d:\Dhea_Bootcamp\learn\Day12-master\Generation\obj\Debug\net7.0\refint\Generation.dll
+d:\Dhea_Bootcamp\learn\Day12-master\Generation\obj\Debug\net7.0\Generation.pdb
+d:\Dhea_Bootcamp\learn\Day12-master\Generation\obj\Debug\net7.0\Generation.genruntimeconfig.cache
+d:\Dhea_Bootcamp\learn\Day12-master\Generation\obj\Debug\net7.0\ref\Generation.dll

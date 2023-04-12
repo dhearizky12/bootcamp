@@ -1,0 +1,15 @@
+D:\Dhea_Bootcamp\learn\13 pertemuan 9\04TryParse\bin\Debug\net7.0\04TryParse.exe
+D:\Dhea_Bootcamp\learn\13 pertemuan 9\04TryParse\bin\Debug\net7.0\04TryParse.deps.json
+D:\Dhea_Bootcamp\learn\13 pertemuan 9\04TryParse\bin\Debug\net7.0\04TryParse.runtimeconfig.json
+D:\Dhea_Bootcamp\learn\13 pertemuan 9\04TryParse\bin\Debug\net7.0\04TryParse.dll
+D:\Dhea_Bootcamp\learn\13 pertemuan 9\04TryParse\bin\Debug\net7.0\04TryParse.pdb
+D:\Dhea_Bootcamp\learn\13 pertemuan 9\04TryParse\obj\Debug\net7.0\04TryParse.csproj.AssemblyReference.cache
+D:\Dhea_Bootcamp\learn\13 pertemuan 9\04TryParse\obj\Debug\net7.0\04TryParse.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dhea_Bootcamp\learn\13 pertemuan 9\04TryParse\obj\Debug\net7.0\04TryParse.AssemblyInfoInputs.cache
+D:\Dhea_Bootcamp\learn\13 pertemuan 9\04TryParse\obj\Debug\net7.0\04TryParse.AssemblyInfo.cs
+D:\Dhea_Bootcamp\learn\13 pertemuan 9\04TryParse\obj\Debug\net7.0\04TryParse.csproj.CoreCompileInputs.cache
+D:\Dhea_Bootcamp\learn\13 pertemuan 9\04TryParse\obj\Debug\net7.0\04TryParse.dll
+D:\Dhea_Bootcamp\learn\13 pertemuan 9\04TryParse\obj\Debug\net7.0\refint\04TryParse.dll
+D:\Dhea_Bootcamp\learn\13 pertemuan 9\04TryParse\obj\Debug\net7.0\04TryParse.pdb
+D:\Dhea_Bootcamp\learn\13 pertemuan 9\04TryParse\obj\Debug\net7.0\04TryParse.genruntimeconfig.cache
+D:\Dhea_Bootcamp\learn\13 pertemuan 9\04TryParse\obj\Debug\net7.0\ref\04TryParse.dll

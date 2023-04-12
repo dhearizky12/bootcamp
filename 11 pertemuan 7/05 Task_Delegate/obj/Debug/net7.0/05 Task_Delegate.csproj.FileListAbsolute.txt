@@ -1,0 +1,15 @@
+D:\Dhea_Bootcamp\learn\11 pertemuan 7\05 Task_Delegate\bin\Debug\net7.0\05 Task_Delegate.exe
+d:\Dhea_Bootcamp\learn\11 pertemuan 7\05 Task_Delegate\bin\Debug\net7.0\05 Task_Delegate.deps.json
+d:\Dhea_Bootcamp\learn\11 pertemuan 7\05 Task_Delegate\bin\Debug\net7.0\05 Task_Delegate.runtimeconfig.json
+D:\Dhea_Bootcamp\learn\11 pertemuan 7\05 Task_Delegate\bin\Debug\net7.0\05 Task_Delegate.dll
+D:\Dhea_Bootcamp\learn\11 pertemuan 7\05 Task_Delegate\bin\Debug\net7.0\05 Task_Delegate.pdb
+D:\Dhea_Bootcamp\learn\11 pertemuan 7\05 Task_Delegate\obj\Debug\net7.0\05 Task_Delegate.csproj.AssemblyReference.cache
+D:\Dhea_Bootcamp\learn\11 pertemuan 7\05 Task_Delegate\obj\Debug\net7.0\05 Task_Delegate.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dhea_Bootcamp\learn\11 pertemuan 7\05 Task_Delegate\obj\Debug\net7.0\05 Task_Delegate.AssemblyInfoInputs.cache
+D:\Dhea_Bootcamp\learn\11 pertemuan 7\05 Task_Delegate\obj\Debug\net7.0\05 Task_Delegate.AssemblyInfo.cs
+D:\Dhea_Bootcamp\learn\11 pertemuan 7\05 Task_Delegate\obj\Debug\net7.0\05 Task_Delegate.csproj.CoreCompileInputs.cache
+D:\Dhea_Bootcamp\learn\11 pertemuan 7\05 Task_Delegate\obj\Debug\net7.0\05 Task_Delegate.dll
+D:\Dhea_Bootcamp\learn\11 pertemuan 7\05 Task_Delegate\obj\Debug\net7.0\refint\05 Task_Delegate.dll
+D:\Dhea_Bootcamp\learn\11 pertemuan 7\05 Task_Delegate\obj\Debug\net7.0\05 Task_Delegate.pdb
+d:\Dhea_Bootcamp\learn\11 pertemuan 7\05 Task_Delegate\obj\Debug\net7.0\05 Task_Delegate.genruntimeconfig.cache
+d:\Dhea_Bootcamp\learn\11 pertemuan 7\05 Task_Delegate\obj\Debug\net7.0\ref\05 Task_Delegate.dll

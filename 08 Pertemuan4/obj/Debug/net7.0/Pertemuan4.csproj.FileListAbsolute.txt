@@ -1,0 +1,5 @@
+D:\Dhea_Bootcamp\learn\Pertemuan4\obj\Debug\net7.0\Pertemuan4.csproj.AssemblyReference.cache
+D:\Dhea_Bootcamp\learn\Pertemuan4\obj\Debug\net7.0\Pertemuan4.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dhea_Bootcamp\learn\Pertemuan4\obj\Debug\net7.0\Pertemuan4.AssemblyInfoInputs.cache
+D:\Dhea_Bootcamp\learn\Pertemuan4\obj\Debug\net7.0\Pertemuan4.AssemblyInfo.cs
+D:\Dhea_Bootcamp\learn\Pertemuan4\obj\Debug\net7.0\Pertemuan4.csproj.CoreCompileInputs.cache

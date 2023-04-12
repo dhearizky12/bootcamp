@@ -1,0 +1,15 @@
+D:\Dhea_Bootcamp\learn\Question\Question3\obj\Debug\net7.0\Question3.csproj.AssemblyReference.cache
+D:\Dhea_Bootcamp\learn\Question\Question3\obj\Debug\net7.0\Question3.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dhea_Bootcamp\learn\Question\Question3\obj\Debug\net7.0\Question3.AssemblyInfoInputs.cache
+D:\Dhea_Bootcamp\learn\Question\Question3\obj\Debug\net7.0\Question3.AssemblyInfo.cs
+D:\Dhea_Bootcamp\learn\Question\Question3\obj\Debug\net7.0\Question3.csproj.CoreCompileInputs.cache
+D:\Dhea_Bootcamp\learn\Question\Question3\bin\Debug\net7.0\Question3.exe
+D:\Dhea_Bootcamp\learn\Question\Question3\bin\Debug\net7.0\Question3.deps.json
+D:\Dhea_Bootcamp\learn\Question\Question3\bin\Debug\net7.0\Question3.runtimeconfig.json
+D:\Dhea_Bootcamp\learn\Question\Question3\bin\Debug\net7.0\Question3.dll
+D:\Dhea_Bootcamp\learn\Question\Question3\bin\Debug\net7.0\Question3.pdb
+D:\Dhea_Bootcamp\learn\Question\Question3\obj\Debug\net7.0\Question3.dll
+D:\Dhea_Bootcamp\learn\Question\Question3\obj\Debug\net7.0\refint\Question3.dll
+D:\Dhea_Bootcamp\learn\Question\Question3\obj\Debug\net7.0\Question3.pdb
+D:\Dhea_Bootcamp\learn\Question\Question3\obj\Debug\net7.0\Question3.genruntimeconfig.cache
+D:\Dhea_Bootcamp\learn\Question\Question3\obj\Debug\net7.0\ref\Question3.dll
