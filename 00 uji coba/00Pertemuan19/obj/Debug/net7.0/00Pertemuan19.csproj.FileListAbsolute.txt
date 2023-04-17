@@ -1,0 +1,15 @@
+d:\Dhea_Bootcamp\learn\00 uji coba\00Pertemuan19\bin\Debug\net7.0\00Pertemuan19.exe
+d:\Dhea_Bootcamp\learn\00 uji coba\00Pertemuan19\bin\Debug\net7.0\00Pertemuan19.deps.json
+d:\Dhea_Bootcamp\learn\00 uji coba\00Pertemuan19\bin\Debug\net7.0\00Pertemuan19.runtimeconfig.json
+d:\Dhea_Bootcamp\learn\00 uji coba\00Pertemuan19\bin\Debug\net7.0\00Pertemuan19.dll
+d:\Dhea_Bootcamp\learn\00 uji coba\00Pertemuan19\bin\Debug\net7.0\00Pertemuan19.pdb
+d:\Dhea_Bootcamp\learn\00 uji coba\00Pertemuan19\obj\Debug\net7.0\00Pertemuan19.csproj.AssemblyReference.cache
+d:\Dhea_Bootcamp\learn\00 uji coba\00Pertemuan19\obj\Debug\net7.0\00Pertemuan19.GeneratedMSBuildEditorConfig.editorconfig
+d:\Dhea_Bootcamp\learn\00 uji coba\00Pertemuan19\obj\Debug\net7.0\00Pertemuan19.AssemblyInfoInputs.cache
+d:\Dhea_Bootcamp\learn\00 uji coba\00Pertemuan19\obj\Debug\net7.0\00Pertemuan19.AssemblyInfo.cs
+d:\Dhea_Bootcamp\learn\00 uji coba\00Pertemuan19\obj\Debug\net7.0\00Pertemuan19.csproj.CoreCompileInputs.cache
+d:\Dhea_Bootcamp\learn\00 uji coba\00Pertemuan19\obj\Debug\net7.0\00Pertemuan19.dll
+d:\Dhea_Bootcamp\learn\00 uji coba\00Pertemuan19\obj\Debug\net7.0\refint\00Pertemuan19.dll
+d:\Dhea_Bootcamp\learn\00 uji coba\00Pertemuan19\obj\Debug\net7.0\00Pertemuan19.pdb
+d:\Dhea_Bootcamp\learn\00 uji coba\00Pertemuan19\obj\Debug\net7.0\00Pertemuan19.genruntimeconfig.cache
+d:\Dhea_Bootcamp\learn\00 uji coba\00Pertemuan19\obj\Debug\net7.0\ref\00Pertemuan19.dll

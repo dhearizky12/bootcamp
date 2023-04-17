@@ -1,0 +1,15 @@
+d:\Dhea_Bootcamp\learn\00 uji coba\00Gzipbufferimage\obj\Debug\net7.0\00Gzipbufferimage.csproj.AssemblyReference.cache
+d:\Dhea_Bootcamp\learn\00 uji coba\00Gzipbufferimage\obj\Debug\net7.0\00Gzipbufferimage.GeneratedMSBuildEditorConfig.editorconfig
+d:\Dhea_Bootcamp\learn\00 uji coba\00Gzipbufferimage\obj\Debug\net7.0\00Gzipbufferimage.AssemblyInfoInputs.cache
+d:\Dhea_Bootcamp\learn\00 uji coba\00Gzipbufferimage\obj\Debug\net7.0\00Gzipbufferimage.AssemblyInfo.cs
+d:\Dhea_Bootcamp\learn\00 uji coba\00Gzipbufferimage\obj\Debug\net7.0\00Gzipbufferimage.csproj.CoreCompileInputs.cache
+d:\Dhea_Bootcamp\learn\00 uji coba\00Gzipbufferimage\bin\Debug\net7.0\00Gzipbufferimage.exe
+d:\Dhea_Bootcamp\learn\00 uji coba\00Gzipbufferimage\bin\Debug\net7.0\00Gzipbufferimage.deps.json
+d:\Dhea_Bootcamp\learn\00 uji coba\00Gzipbufferimage\bin\Debug\net7.0\00Gzipbufferimage.runtimeconfig.json
+d:\Dhea_Bootcamp\learn\00 uji coba\00Gzipbufferimage\bin\Debug\net7.0\00Gzipbufferimage.dll
+d:\Dhea_Bootcamp\learn\00 uji coba\00Gzipbufferimage\bin\Debug\net7.0\00Gzipbufferimage.pdb
+d:\Dhea_Bootcamp\learn\00 uji coba\00Gzipbufferimage\obj\Debug\net7.0\00Gzipbufferimage.dll
+d:\Dhea_Bootcamp\learn\00 uji coba\00Gzipbufferimage\obj\Debug\net7.0\refint\00Gzipbufferimage.dll
+d:\Dhea_Bootcamp\learn\00 uji coba\00Gzipbufferimage\obj\Debug\net7.0\00Gzipbufferimage.pdb
+d:\Dhea_Bootcamp\learn\00 uji coba\00Gzipbufferimage\obj\Debug\net7.0\00Gzipbufferimage.genruntimeconfig.cache
+d:\Dhea_Bootcamp\learn\00 uji coba\00Gzipbufferimage\obj\Debug\net7.0\ref\00Gzipbufferimage.dll
