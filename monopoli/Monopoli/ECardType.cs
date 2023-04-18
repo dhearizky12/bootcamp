@@ -1,0 +1,3 @@
+enum CardType{
+  Chance, Community
+}

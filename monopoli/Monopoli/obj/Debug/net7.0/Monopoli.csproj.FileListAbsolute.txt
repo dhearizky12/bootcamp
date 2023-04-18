@@ -1,0 +1,15 @@
+d:\Dhea_Bootcamp\learn\monopoli\Monopoli\bin\Debug\net7.0\Monopoli.exe
+d:\Dhea_Bootcamp\learn\monopoli\Monopoli\bin\Debug\net7.0\Monopoli.deps.json
+d:\Dhea_Bootcamp\learn\monopoli\Monopoli\bin\Debug\net7.0\Monopoli.runtimeconfig.json
+d:\Dhea_Bootcamp\learn\monopoli\Monopoli\bin\Debug\net7.0\Monopoli.dll
+d:\Dhea_Bootcamp\learn\monopoli\Monopoli\bin\Debug\net7.0\Monopoli.pdb
+d:\Dhea_Bootcamp\learn\monopoli\Monopoli\obj\Debug\net7.0\Monopoli.csproj.AssemblyReference.cache
+d:\Dhea_Bootcamp\learn\monopoli\Monopoli\obj\Debug\net7.0\Monopoli.GeneratedMSBuildEditorConfig.editorconfig
+d:\Dhea_Bootcamp\learn\monopoli\Monopoli\obj\Debug\net7.0\Monopoli.AssemblyInfoInputs.cache
+d:\Dhea_Bootcamp\learn\monopoli\Monopoli\obj\Debug\net7.0\Monopoli.AssemblyInfo.cs
+d:\Dhea_Bootcamp\learn\monopoli\Monopoli\obj\Debug\net7.0\Monopoli.csproj.CoreCompileInputs.cache
+d:\Dhea_Bootcamp\learn\monopoli\Monopoli\obj\Debug\net7.0\Monopoli.dll
+d:\Dhea_Bootcamp\learn\monopoli\Monopoli\obj\Debug\net7.0\refint\Monopoli.dll
+d:\Dhea_Bootcamp\learn\monopoli\Monopoli\obj\Debug\net7.0\Monopoli.pdb
+d:\Dhea_Bootcamp\learn\monopoli\Monopoli\obj\Debug\net7.0\Monopoli.genruntimeconfig.cache
+d:\Dhea_Bootcamp\learn\monopoli\Monopoli\obj\Debug\net7.0\ref\Monopoli.dll
