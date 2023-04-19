@@ -1,0 +1,15 @@
+d:\Dhea_Bootcamp\learn\24 Pertemuan 22\01Monopoli_1\bin\Debug\net7.0\01Monopoli_1.exe
+d:\Dhea_Bootcamp\learn\24 Pertemuan 22\01Monopoli_1\bin\Debug\net7.0\01Monopoli_1.deps.json
+d:\Dhea_Bootcamp\learn\24 Pertemuan 22\01Monopoli_1\bin\Debug\net7.0\01Monopoli_1.runtimeconfig.json
+d:\Dhea_Bootcamp\learn\24 Pertemuan 22\01Monopoli_1\bin\Debug\net7.0\01Monopoli_1.dll
+d:\Dhea_Bootcamp\learn\24 Pertemuan 22\01Monopoli_1\bin\Debug\net7.0\01Monopoli_1.pdb
+d:\Dhea_Bootcamp\learn\24 Pertemuan 22\01Monopoli_1\obj\Debug\net7.0\01Monopoli_1.csproj.AssemblyReference.cache
+d:\Dhea_Bootcamp\learn\24 Pertemuan 22\01Monopoli_1\obj\Debug\net7.0\01Monopoli_1.GeneratedMSBuildEditorConfig.editorconfig
+d:\Dhea_Bootcamp\learn\24 Pertemuan 22\01Monopoli_1\obj\Debug\net7.0\01Monopoli_1.AssemblyInfoInputs.cache
+d:\Dhea_Bootcamp\learn\24 Pertemuan 22\01Monopoli_1\obj\Debug\net7.0\01Monopoli_1.AssemblyInfo.cs
+d:\Dhea_Bootcamp\learn\24 Pertemuan 22\01Monopoli_1\obj\Debug\net7.0\01Monopoli_1.csproj.CoreCompileInputs.cache
+d:\Dhea_Bootcamp\learn\24 Pertemuan 22\01Monopoli_1\obj\Debug\net7.0\01Monopoli_1.dll
+d:\Dhea_Bootcamp\learn\24 Pertemuan 22\01Monopoli_1\obj\Debug\net7.0\refint\01Monopoli_1.dll
+d:\Dhea_Bootcamp\learn\24 Pertemuan 22\01Monopoli_1\obj\Debug\net7.0\01Monopoli_1.pdb
+d:\Dhea_Bootcamp\learn\24 Pertemuan 22\01Monopoli_1\obj\Debug\net7.0\01Monopoli_1.genruntimeconfig.cache
+d:\Dhea_Bootcamp\learn\24 Pertemuan 22\01Monopoli_1\obj\Debug\net7.0\ref\01Monopoli_1.dll
