@@ -62,9 +62,9 @@ namespace Monopoly
       {
         Player currentPlayer = Players[indexCurrentPlayer];
         PlayerTurn(currentPlayer);
-        indexCurrentPlayer = indexCurrentPlayer == Players.Count - 1 ? 0 : indexCurrentPlayer + 1;
         Console.WriteLine("\nPress any key to allow the next player to take their turn.");
         Console.ReadKey();
+        indexCurrentPlayer = indexCurrentPlayer == Players.Count - 1 ? 0 : indexCurrentPlayer + 1;
       }
 
     }

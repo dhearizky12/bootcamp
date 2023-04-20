@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "d:\\Dhea_Bootcamp\\learn\\24 Pertemuan 22\\02Monopoli_2\\Monopoli\\Monopoli.csproj": {}
+    "/Users/fikyfatih/Developer/bootcamp-1/24 Pertemuan 22/02Monopoli_2/Monopoli/Monopoli.csproj": {}
   },
   "projects": {
-    "d:\\Dhea_Bootcamp\\learn\\24 Pertemuan 22\\02Monopoli_2\\Monopoli\\Monopoli.csproj": {
+    "/Users/fikyfatih/Developer/bootcamp-1/24 Pertemuan 22/02Monopoli_2/Monopoli/Monopoli.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\Dhea_Bootcamp\\learn\\24 Pertemuan 22\\02Monopoli_2\\Monopoli\\Monopoli.csproj",
+        "projectUniqueName": "/Users/fikyfatih/Developer/bootcamp-1/24 Pertemuan 22/02Monopoli_2/Monopoli/Monopoli.csproj",
         "projectName": "Monopoli",
-        "projectPath": "d:\\Dhea_Bootcamp\\learn\\24 Pertemuan 22\\02Monopoli_2\\Monopoli\\Monopoli.csproj",
-        "packagesPath": "C:\\Users\\Formulatrix\\.nuget\\packages\\",
-        "outputPath": "d:\\Dhea_Bootcamp\\learn\\24 Pertemuan 22\\02Monopoli_2\\Monopoli\\obj\\",
+        "projectPath": "/Users/fikyfatih/Developer/bootcamp-1/24 Pertemuan 22/02Monopoli_2/Monopoli/Monopoli.csproj",
+        "packagesPath": "/Users/fikyfatih/.nuget/packages/",
+        "outputPath": "/Users/fikyfatih/Developer/bootcamp-1/24 Pertemuan 22/02Monopoli_2/Monopoli/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Formulatrix\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "/Users/fikyfatih/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
@@ -53,7 +53,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.202/RuntimeIdentifierGraph.json"
         }
       }
     }

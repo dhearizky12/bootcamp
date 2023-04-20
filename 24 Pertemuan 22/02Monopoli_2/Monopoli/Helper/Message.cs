@@ -9,7 +9,7 @@ namespace Monopoli
     }
     public static void Warning(string message, bool newLine = true)
     {
-      Console.ForegroundColor = ConsoleColor.Yellow;
+      Console.ForegroundColor = ConsoleColor.Yellow; // untuk menentukan warna teks
       Console.Write(message + (newLine? "\n" : ""));
       Console.ResetColor();
     }
