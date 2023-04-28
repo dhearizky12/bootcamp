@@ -8,20 +8,38 @@ using System;
 namespace Monopoli
 {
 
-    public class PlayerInfo : IPlayerInfo
-{
-    public string name {get; set;} //nama si player
-    public int position {get;set;} //posisi player pada board
-    public bool jail {get; set;} // jika benar maka player akan berada di penjara
-    public Avatar playerAvatar {get;set;} // menentukan warna player di console
-}
-    class Player
-{
-   public PlayerInfo playerInfo;
-    
-        public Player (PlayerInfo playerInfo)
+    public class Player : IPlayer
+    {
+        public string Name { get; set; } //nama si player
+        public int Position { get; set; } = 0; //posisi player pada board
+        public bool Jail { get; set; } = false; // jika benar maka player akan berada di penjara
+        public Avatar PlayerAvatar { get; set; } // menentukan warna player di console
+
+        public Player(string name)
         {
-            this.playerInfo = playerInfo;
+            this.Name = name;
         }
-}
+
+
+        public void Move(int postition)
+        {
+            int tempPosition = this.Position + postition;
+            if (tempPosition < 40)
+            {
+                this.Position = tempPosition;
+            }
+            else
+            {
+                this.Position = tempPosition - 40;
+            }
+        }
+        public int[] RollDice(Dice[] dices)
+        {
+            int[] rollDiceResult = new int[dices.Count()];
+            rollDiceResult[0] = dices[0].RollDice();
+            rollDiceResult[1] = dices[1].RollDice();
+            return rollDiceResult;
+        }
+    }
+
 }
