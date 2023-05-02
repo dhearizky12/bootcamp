@@ -1,0 +1,17 @@
+d:\Dhea_Bootcamp\learn\Pertemuan 25\RobotArmNLog\bin\Debug\net7.0\RobotArmNLog.exe
+d:\Dhea_Bootcamp\learn\Pertemuan 25\RobotArmNLog\bin\Debug\net7.0\RobotArmNLog.deps.json
+d:\Dhea_Bootcamp\learn\Pertemuan 25\RobotArmNLog\bin\Debug\net7.0\RobotArmNLog.runtimeconfig.json
+d:\Dhea_Bootcamp\learn\Pertemuan 25\RobotArmNLog\bin\Debug\net7.0\RobotArmNLog.dll
+d:\Dhea_Bootcamp\learn\Pertemuan 25\RobotArmNLog\bin\Debug\net7.0\RobotArmNLog.pdb
+d:\Dhea_Bootcamp\learn\Pertemuan 25\RobotArmNLog\bin\Debug\net7.0\NLog.dll
+d:\Dhea_Bootcamp\learn\Pertemuan 25\RobotArmNLog\obj\Debug\net7.0\RobotArmNLog.csproj.AssemblyReference.cache
+d:\Dhea_Bootcamp\learn\Pertemuan 25\RobotArmNLog\obj\Debug\net7.0\RobotArmNLog.GeneratedMSBuildEditorConfig.editorconfig
+d:\Dhea_Bootcamp\learn\Pertemuan 25\RobotArmNLog\obj\Debug\net7.0\RobotArmNLog.AssemblyInfoInputs.cache
+d:\Dhea_Bootcamp\learn\Pertemuan 25\RobotArmNLog\obj\Debug\net7.0\RobotArmNLog.AssemblyInfo.cs
+d:\Dhea_Bootcamp\learn\Pertemuan 25\RobotArmNLog\obj\Debug\net7.0\RobotArmNLog.csproj.CoreCompileInputs.cache
+d:\Dhea_Bootcamp\learn\Pertemuan 25\RobotArmNLog\obj\Debug\net7.0\RobotArmNLog.csproj.CopyComplete
+d:\Dhea_Bootcamp\learn\Pertemuan 25\RobotArmNLog\obj\Debug\net7.0\RobotArmNLog.dll
+d:\Dhea_Bootcamp\learn\Pertemuan 25\RobotArmNLog\obj\Debug\net7.0\refint\RobotArmNLog.dll
+d:\Dhea_Bootcamp\learn\Pertemuan 25\RobotArmNLog\obj\Debug\net7.0\RobotArmNLog.pdb
+d:\Dhea_Bootcamp\learn\Pertemuan 25\RobotArmNLog\obj\Debug\net7.0\RobotArmNLog.genruntimeconfig.cache
+d:\Dhea_Bootcamp\learn\Pertemuan 25\RobotArmNLog\obj\Debug\net7.0\ref\RobotArmNLog.dll

@@ -1,0 +1,3 @@
+2023-05-02 11:05:23.8349 Info Program started. 
+2023-05-02 11:05:23.8598 Info The result of the calculation is: 50 
+2023-05-02 11:05:23.8598 Info Program finished. 

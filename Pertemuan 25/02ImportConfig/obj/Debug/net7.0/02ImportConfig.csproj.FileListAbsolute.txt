@@ -1,0 +1,17 @@
+d:\Dhea_Bootcamp\learn\Pertemuan 25\02ImportConfig\bin\Debug\net7.0\02ImportConfig.exe
+d:\Dhea_Bootcamp\learn\Pertemuan 25\02ImportConfig\bin\Debug\net7.0\02ImportConfig.deps.json
+d:\Dhea_Bootcamp\learn\Pertemuan 25\02ImportConfig\bin\Debug\net7.0\02ImportConfig.runtimeconfig.json
+d:\Dhea_Bootcamp\learn\Pertemuan 25\02ImportConfig\bin\Debug\net7.0\02ImportConfig.dll
+d:\Dhea_Bootcamp\learn\Pertemuan 25\02ImportConfig\bin\Debug\net7.0\02ImportConfig.pdb
+d:\Dhea_Bootcamp\learn\Pertemuan 25\02ImportConfig\bin\Debug\net7.0\NLog.dll
+d:\Dhea_Bootcamp\learn\Pertemuan 25\02ImportConfig\obj\Debug\net7.0\02ImportConfig.csproj.AssemblyReference.cache
+d:\Dhea_Bootcamp\learn\Pertemuan 25\02ImportConfig\obj\Debug\net7.0\02ImportConfig.GeneratedMSBuildEditorConfig.editorconfig
+d:\Dhea_Bootcamp\learn\Pertemuan 25\02ImportConfig\obj\Debug\net7.0\02ImportConfig.AssemblyInfoInputs.cache
+d:\Dhea_Bootcamp\learn\Pertemuan 25\02ImportConfig\obj\Debug\net7.0\02ImportConfig.AssemblyInfo.cs
+d:\Dhea_Bootcamp\learn\Pertemuan 25\02ImportConfig\obj\Debug\net7.0\02ImportConfig.csproj.CoreCompileInputs.cache
+d:\Dhea_Bootcamp\learn\Pertemuan 25\02ImportConfig\obj\Debug\net7.0\02ImportConfig.csproj.CopyComplete
+d:\Dhea_Bootcamp\learn\Pertemuan 25\02ImportConfig\obj\Debug\net7.0\02ImportConfig.dll
+d:\Dhea_Bootcamp\learn\Pertemuan 25\02ImportConfig\obj\Debug\net7.0\refint\02ImportConfig.dll
+d:\Dhea_Bootcamp\learn\Pertemuan 25\02ImportConfig\obj\Debug\net7.0\02ImportConfig.pdb
+d:\Dhea_Bootcamp\learn\Pertemuan 25\02ImportConfig\obj\Debug\net7.0\02ImportConfig.genruntimeconfig.cache
+d:\Dhea_Bootcamp\learn\Pertemuan 25\02ImportConfig\obj\Debug\net7.0\ref\02ImportConfig.dll

@@ -1,0 +1,15 @@
+d:\Dhea_Bootcamp\learn\Pertemuan 25\03SystemDiagnostics\obj\Debug\net7.0\03SystemDiagnostics.csproj.AssemblyReference.cache
+d:\Dhea_Bootcamp\learn\Pertemuan 25\03SystemDiagnostics\obj\Debug\net7.0\03SystemDiagnostics.GeneratedMSBuildEditorConfig.editorconfig
+d:\Dhea_Bootcamp\learn\Pertemuan 25\03SystemDiagnostics\obj\Debug\net7.0\03SystemDiagnostics.AssemblyInfoInputs.cache
+d:\Dhea_Bootcamp\learn\Pertemuan 25\03SystemDiagnostics\obj\Debug\net7.0\03SystemDiagnostics.AssemblyInfo.cs
+d:\Dhea_Bootcamp\learn\Pertemuan 25\03SystemDiagnostics\obj\Debug\net7.0\03SystemDiagnostics.csproj.CoreCompileInputs.cache
+d:\Dhea_Bootcamp\learn\Pertemuan 25\03SystemDiagnostics\bin\Debug\net7.0\03SystemDiagnostics.exe
+d:\Dhea_Bootcamp\learn\Pertemuan 25\03SystemDiagnostics\bin\Debug\net7.0\03SystemDiagnostics.deps.json
+d:\Dhea_Bootcamp\learn\Pertemuan 25\03SystemDiagnostics\bin\Debug\net7.0\03SystemDiagnostics.runtimeconfig.json
+d:\Dhea_Bootcamp\learn\Pertemuan 25\03SystemDiagnostics\bin\Debug\net7.0\03SystemDiagnostics.dll
+d:\Dhea_Bootcamp\learn\Pertemuan 25\03SystemDiagnostics\bin\Debug\net7.0\03SystemDiagnostics.pdb
+d:\Dhea_Bootcamp\learn\Pertemuan 25\03SystemDiagnostics\obj\Debug\net7.0\03SystemDiagnostics.dll
+d:\Dhea_Bootcamp\learn\Pertemuan 25\03SystemDiagnostics\obj\Debug\net7.0\refint\03SystemDiagnostics.dll
+d:\Dhea_Bootcamp\learn\Pertemuan 25\03SystemDiagnostics\obj\Debug\net7.0\03SystemDiagnostics.pdb
+d:\Dhea_Bootcamp\learn\Pertemuan 25\03SystemDiagnostics\obj\Debug\net7.0\03SystemDiagnostics.genruntimeconfig.cache
+d:\Dhea_Bootcamp\learn\Pertemuan 25\03SystemDiagnostics\obj\Debug\net7.0\ref\03SystemDiagnostics.dll

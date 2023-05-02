@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Ab8r3WPg6YmbOZRApvhV2pz68STP67ivcKsho3v8oFvDe0XEiaXZ4IV8HeCIhFy+IQGnlJP6CIW7396ATXViWg==",
+  "success": true,
+  "projectFilePath": "d:\\Dhea_Bootcamp\\learn\\Pertemuan 25\\GameUsingNLog\\GameUsingNLog.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Formulatrix\\.nuget\\packages\\nlog\\5.1.4\\nlog.5.1.4.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,42 @@
+2023-05-02 11:46:09.6319|INFO|GameExample.Program|Game started.
+2023-05-02 11:46:09.6552|INFO|GameExample.Program|Player's turn.
+2023-05-02 11:46:09.6562|INFO|GameExample.Program|Player's attack: 18
+2023-05-02 11:46:09.6562|INFO|GameExample.Program|Enemy's health: 82
+2023-05-02 11:46:09.6562|INFO|GameExample.Program|Enemy's turn.
+2023-05-02 11:46:09.6562|INFO|GameExample.Program|Enemy's attack: 11
+2023-05-02 11:46:09.6562|INFO|GameExample.Program|Player's health: 89
+2023-05-02 11:46:09.6562|INFO|GameExample.Program|Player's turn.
+2023-05-02 11:46:09.6562|INFO|GameExample.Program|Player's attack: 11
+2023-05-02 11:46:09.6562|INFO|GameExample.Program|Enemy's health: 71
+2023-05-02 11:46:09.6562|INFO|GameExample.Program|Enemy's turn.
+2023-05-02 11:46:09.6562|INFO|GameExample.Program|Enemy's attack: 12
+2023-05-02 11:46:09.6562|INFO|GameExample.Program|Player's health: 77
+2023-05-02 11:46:09.6562|INFO|GameExample.Program|Player's turn.
+2023-05-02 11:46:09.6562|INFO|GameExample.Program|Player's attack: 19
+2023-05-02 11:46:09.6562|INFO|GameExample.Program|Enemy's health: 52
+2023-05-02 11:46:09.6562|INFO|GameExample.Program|Enemy's turn.
+2023-05-02 11:46:09.6562|INFO|GameExample.Program|Enemy's attack: 5
+2023-05-02 11:46:09.6562|INFO|GameExample.Program|Player's health: 72
+2023-05-02 11:46:09.6562|INFO|GameExample.Program|Player's turn.
+2023-05-02 11:46:09.6562|INFO|GameExample.Program|Player's attack: 18
+2023-05-02 11:46:09.6562|INFO|GameExample.Program|Enemy's health: 34
+2023-05-02 11:46:09.6562|INFO|GameExample.Program|Enemy's turn.
+2023-05-02 11:46:09.6562|INFO|GameExample.Program|Enemy's attack: 13
+2023-05-02 11:46:09.6562|INFO|GameExample.Program|Player's health: 59
+2023-05-02 11:46:09.6562|INFO|GameExample.Program|Player's turn.
+2023-05-02 11:46:09.6562|INFO|GameExample.Program|Player's attack: 14
+2023-05-02 11:46:09.6562|INFO|GameExample.Program|Enemy's health: 20
+2023-05-02 11:46:09.6562|INFO|GameExample.Program|Enemy's turn.
+2023-05-02 11:46:09.6562|INFO|GameExample.Program|Enemy's attack: 11
+2023-05-02 11:46:09.6562|INFO|GameExample.Program|Player's health: 48
+2023-05-02 11:46:09.6562|INFO|GameExample.Program|Player's turn.
+2023-05-02 11:46:09.6562|INFO|GameExample.Program|Player's attack: 16
+2023-05-02 11:46:09.6562|INFO|GameExample.Program|Enemy's health: 4
+2023-05-02 11:46:09.6562|INFO|GameExample.Program|Enemy's turn.
+2023-05-02 11:46:09.6562|INFO|GameExample.Program|Enemy's attack: 12
+2023-05-02 11:46:09.6562|INFO|GameExample.Program|Player's health: 36
+2023-05-02 11:46:09.6562|INFO|GameExample.Program|Player's turn.
+2023-05-02 11:46:09.6562|INFO|GameExample.Program|Player's attack: 19
+2023-05-02 11:46:09.6805|INFO|GameExample.Program|Enemy's health: -15
+2023-05-02 11:46:09.6805|INFO|GameExample.Program|Player wins!
+2023-05-02 11:46:09.6805|INFO|GameExample.Program|Game finished.

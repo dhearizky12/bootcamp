@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "qTATRP3smfEF+RgyPW2K2Z9qHLdh1X/w00l/mrwcGvjsO7TWoOuBwBY05UoVTnvdOKghPO9skdxNxJYTJHgcZA==",
+  "success": true,
+  "projectFilePath": "d:\\Dhea_Bootcamp\\learn\\Pertemuan 25\\02ImportConfig\\02ImportConfig.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Formulatrix\\.nuget\\packages\\nlog\\5.1.4\\nlog.5.1.4.nupkg.sha512"
+  ],
+  "logs": []
+}

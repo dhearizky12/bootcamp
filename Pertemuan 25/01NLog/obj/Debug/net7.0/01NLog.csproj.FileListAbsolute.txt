@@ -1,0 +1,17 @@
+d:\Dhea_Bootcamp\learn\Pertemuan 25\01NLog\obj\Debug\net7.0\01NLog.csproj.AssemblyReference.cache
+d:\Dhea_Bootcamp\learn\Pertemuan 25\01NLog\obj\Debug\net7.0\01NLog.GeneratedMSBuildEditorConfig.editorconfig
+d:\Dhea_Bootcamp\learn\Pertemuan 25\01NLog\obj\Debug\net7.0\01NLog.AssemblyInfoInputs.cache
+d:\Dhea_Bootcamp\learn\Pertemuan 25\01NLog\obj\Debug\net7.0\01NLog.AssemblyInfo.cs
+d:\Dhea_Bootcamp\learn\Pertemuan 25\01NLog\obj\Debug\net7.0\01NLog.csproj.CoreCompileInputs.cache
+d:\Dhea_Bootcamp\learn\Pertemuan 25\01NLog\bin\Debug\net7.0\01NLog.exe
+d:\Dhea_Bootcamp\learn\Pertemuan 25\01NLog\bin\Debug\net7.0\01NLog.deps.json
+d:\Dhea_Bootcamp\learn\Pertemuan 25\01NLog\bin\Debug\net7.0\01NLog.runtimeconfig.json
+d:\Dhea_Bootcamp\learn\Pertemuan 25\01NLog\bin\Debug\net7.0\01NLog.dll
+d:\Dhea_Bootcamp\learn\Pertemuan 25\01NLog\bin\Debug\net7.0\01NLog.pdb
+d:\Dhea_Bootcamp\learn\Pertemuan 25\01NLog\bin\Debug\net7.0\NLog.dll
+d:\Dhea_Bootcamp\learn\Pertemuan 25\01NLog\obj\Debug\net7.0\01NLog.csproj.CopyComplete
+d:\Dhea_Bootcamp\learn\Pertemuan 25\01NLog\obj\Debug\net7.0\01NLog.dll
+d:\Dhea_Bootcamp\learn\Pertemuan 25\01NLog\obj\Debug\net7.0\refint\01NLog.dll
+d:\Dhea_Bootcamp\learn\Pertemuan 25\01NLog\obj\Debug\net7.0\01NLog.pdb
+d:\Dhea_Bootcamp\learn\Pertemuan 25\01NLog\obj\Debug\net7.0\01NLog.genruntimeconfig.cache
+d:\Dhea_Bootcamp\learn\Pertemuan 25\01NLog\obj\Debug\net7.0\ref\01NLog.dll

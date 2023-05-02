@@ -1,0 +1,15 @@
+d:\Dhea_Bootcamp\learn\Pertemuan 25\02ConsoleLogger\bin\Debug\net7.0\02ConsoleLogger.exe
+d:\Dhea_Bootcamp\learn\Pertemuan 25\02ConsoleLogger\bin\Debug\net7.0\02ConsoleLogger.deps.json
+d:\Dhea_Bootcamp\learn\Pertemuan 25\02ConsoleLogger\bin\Debug\net7.0\02ConsoleLogger.runtimeconfig.json
+d:\Dhea_Bootcamp\learn\Pertemuan 25\02ConsoleLogger\bin\Debug\net7.0\02ConsoleLogger.dll
+d:\Dhea_Bootcamp\learn\Pertemuan 25\02ConsoleLogger\bin\Debug\net7.0\02ConsoleLogger.pdb
+d:\Dhea_Bootcamp\learn\Pertemuan 25\02ConsoleLogger\obj\Debug\net7.0\02ConsoleLogger.csproj.AssemblyReference.cache
+d:\Dhea_Bootcamp\learn\Pertemuan 25\02ConsoleLogger\obj\Debug\net7.0\02ConsoleLogger.GeneratedMSBuildEditorConfig.editorconfig
+d:\Dhea_Bootcamp\learn\Pertemuan 25\02ConsoleLogger\obj\Debug\net7.0\02ConsoleLogger.AssemblyInfoInputs.cache
+d:\Dhea_Bootcamp\learn\Pertemuan 25\02ConsoleLogger\obj\Debug\net7.0\02ConsoleLogger.AssemblyInfo.cs
+d:\Dhea_Bootcamp\learn\Pertemuan 25\02ConsoleLogger\obj\Debug\net7.0\02ConsoleLogger.csproj.CoreCompileInputs.cache
+d:\Dhea_Bootcamp\learn\Pertemuan 25\02ConsoleLogger\obj\Debug\net7.0\02ConsoleLogger.dll
+d:\Dhea_Bootcamp\learn\Pertemuan 25\02ConsoleLogger\obj\Debug\net7.0\refint\02ConsoleLogger.dll
+d:\Dhea_Bootcamp\learn\Pertemuan 25\02ConsoleLogger\obj\Debug\net7.0\02ConsoleLogger.pdb
+d:\Dhea_Bootcamp\learn\Pertemuan 25\02ConsoleLogger\obj\Debug\net7.0\02ConsoleLogger.genruntimeconfig.cache
+d:\Dhea_Bootcamp\learn\Pertemuan 25\02ConsoleLogger\obj\Debug\net7.0\ref\02ConsoleLogger.dll
