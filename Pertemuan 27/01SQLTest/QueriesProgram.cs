@@ -1,10 +1,11 @@
 using Microsoft.EntityFrameworkCore;
 namespace _01SQLTest;
+using System.Linq;
 
 
 public class QueriesProgram
 {
-    public static void QueryingCategories()
+    public static void QueryingCategoriesSuppliers()
     {
         using (Northwind db = new())
         {
@@ -12,7 +13,7 @@ public class QueriesProgram
 
             IQueryable<Category>? categories = db.Categories?
                 .Include(c => c.Products)
-                .ThenInclude(p=>p.Supplier);
+                .ThenInclude(p => p.Supplier);
 
             if ((categories == null) || (!categories.Any()))
             {
@@ -23,12 +24,34 @@ public class QueriesProgram
             foreach (Category? c in categories)
             {
                 Helper.Printer($"Category: {c.CategoryName} has {c.Products.Count} products.");
-            
+
                 foreach (Product? n in c.Products)
-                Helper.Printer($"\tProduct : {n.ProductName} || has Supplier : {n.Supplier?.CompanyName} || Contact Name: {n.Supplier?.ContactName}");
+                    Helper.Printer($"\tProduct : {n.ProductName} || has Supplier : {n.Supplier?.CompanyName} || Contact Name: {n.Supplier?.ContactName}");
+            }
         }
     }
-}
+
+    public static void QueryingSuppliers()
+    {
+        using (Northwind db = new())
+        {
+            Helper.SectionTitle("Querying Suppliers");
+
+            IQueryable<Supplier>? suppliers = db.Suppliers?
+            .Include(s => s.Products)
+            .ThenInclude(p => p.Category);
+
+            foreach (Supplier? s in suppliers)
+            {
+                Helper.Printer($"Supplier: {s.CompanyName} has {s.Products.Count} products.");
+
+                foreach (Product? p in s.Products)
+                {
+                    Helper.Printer($"\tProduct: {p.ProductName} || Category: {p.Category?.CategoryName}");
+                }
+            }
+        }
+    }
 
     public static void FilteredIncludes()
     {
@@ -96,3 +119,4 @@ public class QueriesProgram
         }
     }
 }
+

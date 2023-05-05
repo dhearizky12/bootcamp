@@ -26,6 +26,7 @@ namespace ProgramEFCore
 				Console.WriteLine("6) Updating a Product");
 				Console.WriteLine("7) Deleting a Product");
 				Console.WriteLine("8) Deleting a Category");
+                Console.WriteLine("9) Querying Suppliers");
 				Console.WriteLine("X) Exit");
 				Console.Write("Enter a command: ");
 				input = Helper.GetInput();
@@ -33,7 +34,7 @@ namespace ProgramEFCore
 				switch (input?.ToLower())
 				{
 					case "1":
-                    QueriesProgram.QueryingCategories();
+                    QueriesProgram.QueryingCategoriesSuppliers();
 						break;
 					case "2":
 						QueriesProgram.FilteredIncludes();
@@ -57,7 +58,7 @@ namespace ProgramEFCore
 						CUDProgram.DeleteCategory();
 						break;
 					case "9":
-						CUDProgram.DeleteProduct();
+						QueriesProgram.QueryingSuppliers();
 						break;
 					case "x":
 						isValidInput = true;
