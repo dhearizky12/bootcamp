@@ -10,6 +10,8 @@ public class Northwind : DbContext //DbContext adalah concrate class
     public DbSet<Product>? Products { get; set; }
     
     public DbSet<Category>? Categories { get; set; }
+
+    public DbSet <Supplier>? Suppliers {get;set;}
     protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
     {
         //string path = "D:/Dhea_Bootcamp/learn/Pertemuan 27/01SQLTest/Northwind.db";
@@ -23,7 +25,7 @@ public class Northwind : DbContext //DbContext adalah concrate class
         modelBuilder.Entity<Category>()
         .Property(c => c.CategoryName)
         .IsRequired()
-        .HasMaxLength(15);
+        .HasMaxLength(15); // using fluent API untuk setting is not null atau syarat lain dari database
 
         if (Database.ProviderName?.Contains("Sqlite") ?? false)
         {

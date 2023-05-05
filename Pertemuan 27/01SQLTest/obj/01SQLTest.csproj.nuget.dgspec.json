@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Dhea_Bootcamp\\learn\\Pertemuan 27\\01SQLTest\\01SQLTest.csproj": {}
+    "d:\\Dhea_Bootcamp\\learn\\Pertemuan 27\\01SQLTest\\01SQLTest.csproj": {}
   },
   "projects": {
-    "D:\\Dhea_Bootcamp\\learn\\Pertemuan 27\\01SQLTest\\01SQLTest.csproj": {
+    "d:\\Dhea_Bootcamp\\learn\\Pertemuan 27\\01SQLTest\\01SQLTest.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Dhea_Bootcamp\\learn\\Pertemuan 27\\01SQLTest\\01SQLTest.csproj",
+        "projectUniqueName": "d:\\Dhea_Bootcamp\\learn\\Pertemuan 27\\01SQLTest\\01SQLTest.csproj",
         "projectName": "01SQLTest",
-        "projectPath": "D:\\Dhea_Bootcamp\\learn\\Pertemuan 27\\01SQLTest\\01SQLTest.csproj",
+        "projectPath": "d:\\Dhea_Bootcamp\\learn\\Pertemuan 27\\01SQLTest\\01SQLTest.csproj",
         "packagesPath": "C:\\Users\\Formulatrix\\.nuget\\packages\\",
-        "outputPath": "D:\\Dhea_Bootcamp\\learn\\Pertemuan 27\\01SQLTest\\obj\\",
+        "outputPath": "d:\\Dhea_Bootcamp\\learn\\Pertemuan 27\\01SQLTest\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Formulatrix\\AppData\\Roaming\\NuGet\\NuGet.Config"

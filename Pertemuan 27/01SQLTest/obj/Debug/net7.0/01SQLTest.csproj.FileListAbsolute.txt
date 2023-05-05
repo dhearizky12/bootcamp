@@ -1,3 +1,8 @@
+d:\Dhea_Bootcamp\learn\Pertemuan 27\01SQLTest\obj\Debug\net7.0\01SQLTest.csproj.AssemblyReference.cache
+d:\Dhea_Bootcamp\learn\Pertemuan 27\01SQLTest\obj\Debug\net7.0\01SQLTest.GeneratedMSBuildEditorConfig.editorconfig
+d:\Dhea_Bootcamp\learn\Pertemuan 27\01SQLTest\obj\Debug\net7.0\01SQLTest.AssemblyInfoInputs.cache
+d:\Dhea_Bootcamp\learn\Pertemuan 27\01SQLTest\obj\Debug\net7.0\01SQLTest.AssemblyInfo.cs
+d:\Dhea_Bootcamp\learn\Pertemuan 27\01SQLTest\obj\Debug\net7.0\01SQLTest.csproj.CoreCompileInputs.cache
 d:\Dhea_Bootcamp\learn\Pertemuan 27\01SQLTest\bin\Debug\net7.0\01SQLTest.exe
 d:\Dhea_Bootcamp\learn\Pertemuan 27\01SQLTest\bin\Debug\net7.0\01SQLTest.deps.json
 d:\Dhea_Bootcamp\learn\Pertemuan 27\01SQLTest\bin\Debug\net7.0\01SQLTest.runtimeconfig.json
@@ -48,11 +53,6 @@ d:\Dhea_Bootcamp\learn\Pertemuan 27\01SQLTest\bin\Debug\net7.0\runtimes\win-arm\
 d:\Dhea_Bootcamp\learn\Pertemuan 27\01SQLTest\bin\Debug\net7.0\runtimes\win-arm64\native\e_sqlite3.dll
 d:\Dhea_Bootcamp\learn\Pertemuan 27\01SQLTest\bin\Debug\net7.0\runtimes\win-x64\native\e_sqlite3.dll
 d:\Dhea_Bootcamp\learn\Pertemuan 27\01SQLTest\bin\Debug\net7.0\runtimes\win-x86\native\e_sqlite3.dll
-d:\Dhea_Bootcamp\learn\Pertemuan 27\01SQLTest\obj\Debug\net7.0\01SQLTest.csproj.AssemblyReference.cache
-d:\Dhea_Bootcamp\learn\Pertemuan 27\01SQLTest\obj\Debug\net7.0\01SQLTest.GeneratedMSBuildEditorConfig.editorconfig
-d:\Dhea_Bootcamp\learn\Pertemuan 27\01SQLTest\obj\Debug\net7.0\01SQLTest.AssemblyInfoInputs.cache
-d:\Dhea_Bootcamp\learn\Pertemuan 27\01SQLTest\obj\Debug\net7.0\01SQLTest.AssemblyInfo.cs
-d:\Dhea_Bootcamp\learn\Pertemuan 27\01SQLTest\obj\Debug\net7.0\01SQLTest.csproj.CoreCompileInputs.cache
 d:\Dhea_Bootcamp\learn\Pertemuan 27\01SQLTest\obj\Debug\net7.0\01SQLTest.csproj.CopyComplete
 d:\Dhea_Bootcamp\learn\Pertemuan 27\01SQLTest\obj\Debug\net7.0\01SQLTest.dll
 d:\Dhea_Bootcamp\learn\Pertemuan 27\01SQLTest\obj\Debug\net7.0\refint\01SQLTest.dll

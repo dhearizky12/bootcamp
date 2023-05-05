@@ -9,7 +9,7 @@ public class Category
     [Required] //tidak boleh null
     [StringLength (15)]
 
-    public string CategoryName {get; set;}=null;
+    public string? CategoryName {get; set;}
 
     [Column (TypeName = "ntext")]
 

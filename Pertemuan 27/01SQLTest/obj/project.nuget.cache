@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "SSv+3OQzy6nHpiDGXApLunhjW4I7Y1f6WASer6pRu+Z2Ii4k8Un4dMeEvxa8K/Cn0z8s/yjccxoIprfFMwUmNw==",
+  "dgSpecHash": "RIft4KNob+Y6rPX7gYFosD3dgvzgjDKU+OE958gjM8aZbotDCJG97tWtLMlBgqkDlxTv7EbB7qbgmRyds3ZelQ==",
   "success": true,
-  "projectFilePath": "D:\\Dhea_Bootcamp\\learn\\Pertemuan 27\\01SQLTest\\01SQLTest.csproj",
+  "projectFilePath": "d:\\Dhea_Bootcamp\\learn\\Pertemuan 27\\01SQLTest\\01SQLTest.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Formulatrix\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\Formulatrix\\.nuget\\packages\\microsoft.data.sqlite.core\\7.0.5\\microsoft.data.sqlite.core.7.0.5.nupkg.sha512",
