@@ -5667,19 +5667,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Formulatrix\\.nuget\\packages\\": {}
+    "/Users/fikyfatih/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "d:\\Dhea_Bootcamp\\learn\\Pertemuan 26\\01CalcualtorSimple.Test\\01CalcualtorSimple.Test.csproj",
+      "projectUniqueName": "/Users/fikyfatih/Developer/Learn/bootcamp/Pertemuan 26/01CalcualtorSimple.Test/01CalcualtorSimple.Test.csproj",
       "projectName": "01CalcualtorSimple.Test",
-      "projectPath": "d:\\Dhea_Bootcamp\\learn\\Pertemuan 26\\01CalcualtorSimple.Test\\01CalcualtorSimple.Test.csproj",
-      "packagesPath": "C:\\Users\\Formulatrix\\.nuget\\packages\\",
-      "outputPath": "d:\\Dhea_Bootcamp\\learn\\Pertemuan 26\\01CalcualtorSimple.Test\\obj\\",
+      "projectPath": "/Users/fikyfatih/Developer/Learn/bootcamp/Pertemuan 26/01CalcualtorSimple.Test/01CalcualtorSimple.Test.csproj",
+      "packagesPath": "/Users/fikyfatih/.nuget/packages/",
+      "outputPath": "/Users/fikyfatih/Developer/Learn/bootcamp/Pertemuan 26/01CalcualtorSimple.Test/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Formulatrix\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "/Users/fikyfatih/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net7.0"
@@ -5691,8 +5691,8 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "d:\\Dhea_Bootcamp\\learn\\Pertemuan 26\\01CalcualtorSimple\\01CalcualtorSimple.csproj": {
-              "projectPath": "d:\\Dhea_Bootcamp\\learn\\Pertemuan 26\\01CalcualtorSimple\\01CalcualtorSimple.csproj"
+            "/Users/fikyfatih/Developer/Learn/bootcamp/Pertemuan 26/01CalcualtorSimple/01CalcualtorSimple.csproj": {
+              "projectPath": "/Users/fikyfatih/Developer/Learn/bootcamp/Pertemuan 26/01CalcualtorSimple/01CalcualtorSimple.csproj"
             }
           }
         }
@@ -5748,7 +5748,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.202/RuntimeIdentifierGraph.json"
       }
     }
   }

@@ -46,7 +46,6 @@ static class GenericOnlineShop
         return null;
     }
 }
-
 public class ProductFood
 {
     public string Name { get; set; }

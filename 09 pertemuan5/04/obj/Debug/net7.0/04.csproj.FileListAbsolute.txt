@@ -1,15 +1,30 @@
-D:\Dhea_Bootcamp\learn\pertemuan5\04\obj\Debug\net7.0\04.csproj.AssemblyReference.cache
-D:\Dhea_Bootcamp\learn\pertemuan5\04\obj\Debug\net7.0\04.GeneratedMSBuildEditorConfig.editorconfig
-D:\Dhea_Bootcamp\learn\pertemuan5\04\obj\Debug\net7.0\04.AssemblyInfoInputs.cache
-D:\Dhea_Bootcamp\learn\pertemuan5\04\obj\Debug\net7.0\04.AssemblyInfo.cs
-D:\Dhea_Bootcamp\learn\pertemuan5\04\obj\Debug\net7.0\04.csproj.CoreCompileInputs.cache
-D:\Dhea_Bootcamp\learn\pertemuan5\04\bin\Debug\net7.0\04.exe
-D:\Dhea_Bootcamp\learn\pertemuan5\04\bin\Debug\net7.0\04.deps.json
-D:\Dhea_Bootcamp\learn\pertemuan5\04\bin\Debug\net7.0\04.runtimeconfig.json
-D:\Dhea_Bootcamp\learn\pertemuan5\04\bin\Debug\net7.0\04.dll
-D:\Dhea_Bootcamp\learn\pertemuan5\04\bin\Debug\net7.0\04.pdb
-D:\Dhea_Bootcamp\learn\pertemuan5\04\obj\Debug\net7.0\04.dll
-D:\Dhea_Bootcamp\learn\pertemuan5\04\obj\Debug\net7.0\refint\04.dll
-D:\Dhea_Bootcamp\learn\pertemuan5\04\obj\Debug\net7.0\04.pdb
-D:\Dhea_Bootcamp\learn\pertemuan5\04\obj\Debug\net7.0\04.genruntimeconfig.cache
-D:\Dhea_Bootcamp\learn\pertemuan5\04\obj\Debug\net7.0\ref\04.dll
+D:/Dhea_Bootcamp/learn/pertemuan5/04/obj/Debug/net7.0/04.csproj.AssemblyReference.cache
+D:/Dhea_Bootcamp/learn/pertemuan5/04/obj/Debug/net7.0/04.GeneratedMSBuildEditorConfig.editorconfig
+D:/Dhea_Bootcamp/learn/pertemuan5/04/obj/Debug/net7.0/04.AssemblyInfoInputs.cache
+D:/Dhea_Bootcamp/learn/pertemuan5/04/obj/Debug/net7.0/04.AssemblyInfo.cs
+D:/Dhea_Bootcamp/learn/pertemuan5/04/obj/Debug/net7.0/04.csproj.CoreCompileInputs.cache
+D:/Dhea_Bootcamp/learn/pertemuan5/04/bin/Debug/net7.0/04.exe
+D:/Dhea_Bootcamp/learn/pertemuan5/04/bin/Debug/net7.0/04.deps.json
+D:/Dhea_Bootcamp/learn/pertemuan5/04/bin/Debug/net7.0/04.runtimeconfig.json
+D:/Dhea_Bootcamp/learn/pertemuan5/04/bin/Debug/net7.0/04.dll
+D:/Dhea_Bootcamp/learn/pertemuan5/04/bin/Debug/net7.0/04.pdb
+D:/Dhea_Bootcamp/learn/pertemuan5/04/obj/Debug/net7.0/04.dll
+D:/Dhea_Bootcamp/learn/pertemuan5/04/obj/Debug/net7.0/refint/04.dll
+D:/Dhea_Bootcamp/learn/pertemuan5/04/obj/Debug/net7.0/04.pdb
+D:/Dhea_Bootcamp/learn/pertemuan5/04/obj/Debug/net7.0/04.genruntimeconfig.cache
+D:/Dhea_Bootcamp/learn/pertemuan5/04/obj/Debug/net7.0/ref/04.dll
+/Users/fikyfatih/Developer/Learn/bootcamp/09 pertemuan5/04/bin/Debug/net7.0/04
+/Users/fikyfatih/Developer/Learn/bootcamp/09 pertemuan5/04/bin/Debug/net7.0/04.deps.json
+/Users/fikyfatih/Developer/Learn/bootcamp/09 pertemuan5/04/bin/Debug/net7.0/04.runtimeconfig.json
+/Users/fikyfatih/Developer/Learn/bootcamp/09 pertemuan5/04/bin/Debug/net7.0/04.dll
+/Users/fikyfatih/Developer/Learn/bootcamp/09 pertemuan5/04/bin/Debug/net7.0/04.pdb
+/Users/fikyfatih/Developer/Learn/bootcamp/09 pertemuan5/04/obj/Debug/net7.0/04.csproj.AssemblyReference.cache
+/Users/fikyfatih/Developer/Learn/bootcamp/09 pertemuan5/04/obj/Debug/net7.0/04.GeneratedMSBuildEditorConfig.editorconfig
+/Users/fikyfatih/Developer/Learn/bootcamp/09 pertemuan5/04/obj/Debug/net7.0/04.AssemblyInfoInputs.cache
+/Users/fikyfatih/Developer/Learn/bootcamp/09 pertemuan5/04/obj/Debug/net7.0/04.AssemblyInfo.cs
+/Users/fikyfatih/Developer/Learn/bootcamp/09 pertemuan5/04/obj/Debug/net7.0/04.csproj.CoreCompileInputs.cache
+/Users/fikyfatih/Developer/Learn/bootcamp/09 pertemuan5/04/obj/Debug/net7.0/04.dll
+/Users/fikyfatih/Developer/Learn/bootcamp/09 pertemuan5/04/obj/Debug/net7.0/refint/04.dll
+/Users/fikyfatih/Developer/Learn/bootcamp/09 pertemuan5/04/obj/Debug/net7.0/04.pdb
+/Users/fikyfatih/Developer/Learn/bootcamp/09 pertemuan5/04/obj/Debug/net7.0/04.genruntimeconfig.cache
+/Users/fikyfatih/Developer/Learn/bootcamp/09 pertemuan5/04/obj/Debug/net7.0/ref/04.dll

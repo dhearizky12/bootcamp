@@ -8,19 +8,19 @@
     "net7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Formulatrix\\.nuget\\packages\\": {}
+    "/Users/fikyfatih/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Dhea_Bootcamp\\learn\\pertemuan5\\04\\04.csproj",
+      "projectUniqueName": "/Users/fikyfatih/Developer/Learn/bootcamp/09 pertemuan5/04/04.csproj",
       "projectName": "04",
-      "projectPath": "D:\\Dhea_Bootcamp\\learn\\pertemuan5\\04\\04.csproj",
-      "packagesPath": "C:\\Users\\Formulatrix\\.nuget\\packages\\",
-      "outputPath": "D:\\Dhea_Bootcamp\\learn\\pertemuan5\\04\\obj\\",
+      "projectPath": "/Users/fikyfatih/Developer/Learn/bootcamp/09 pertemuan5/04/04.csproj",
+      "packagesPath": "/Users/fikyfatih/.nuget/packages/",
+      "outputPath": "/Users/fikyfatih/Developer/Learn/bootcamp/09 pertemuan5/04/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Formulatrix\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "/Users/fikyfatih/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net7.0"
@@ -59,7 +59,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.202/RuntimeIdentifierGraph.json"
       }
     }
   }
