@@ -58,7 +58,7 @@ partial class Program
                     Printer($"\t{p.ProductName} has {p.Stock} in stock.");
                 }
             }
-        }
+       }
     }
 
     static void QueryingProducts()

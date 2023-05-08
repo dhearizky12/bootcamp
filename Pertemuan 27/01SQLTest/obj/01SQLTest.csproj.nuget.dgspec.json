@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "d:\\Dhea_Bootcamp\\learn\\Pertemuan 27\\01SQLTest\\01SQLTest.csproj": {}
+    "/Users/fikyfatih/Developer/Learn/bootcamp/Pertemuan 27/01SQLTest/01SQLTest.csproj": {}
   },
   "projects": {
-    "d:\\Dhea_Bootcamp\\learn\\Pertemuan 27\\01SQLTest\\01SQLTest.csproj": {
+    "/Users/fikyfatih/Developer/Learn/bootcamp/Pertemuan 27/01SQLTest/01SQLTest.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\Dhea_Bootcamp\\learn\\Pertemuan 27\\01SQLTest\\01SQLTest.csproj",
+        "projectUniqueName": "/Users/fikyfatih/Developer/Learn/bootcamp/Pertemuan 27/01SQLTest/01SQLTest.csproj",
         "projectName": "01SQLTest",
-        "projectPath": "d:\\Dhea_Bootcamp\\learn\\Pertemuan 27\\01SQLTest\\01SQLTest.csproj",
-        "packagesPath": "C:\\Users\\Formulatrix\\.nuget\\packages\\",
-        "outputPath": "d:\\Dhea_Bootcamp\\learn\\Pertemuan 27\\01SQLTest\\obj\\",
+        "projectPath": "/Users/fikyfatih/Developer/Learn/bootcamp/Pertemuan 27/01SQLTest/01SQLTest.csproj",
+        "packagesPath": "/Users/fikyfatih/.nuget/packages/",
+        "outputPath": "/Users/fikyfatih/Developer/Learn/bootcamp/Pertemuan 27/01SQLTest/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Formulatrix\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "/Users/fikyfatih/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
@@ -75,7 +75,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.202/RuntimeIdentifierGraph.json"
         }
       }
     }

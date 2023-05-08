@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "d:\\Dhea_Bootcamp\\learn\\Pertemuan 27 WorkingWithEFCore-master\\EFCore\\EFCore.csproj": {}
+    "/Users/fikyfatih/Developer/Learn/bootcamp/Pertemuan 27 WorkingWithEFCore-master/EFCore/EFCore.csproj": {}
   },
   "projects": {
-    "d:\\Dhea_Bootcamp\\learn\\Pertemuan 27 WorkingWithEFCore-master\\EFCore\\EFCore.csproj": {
+    "/Users/fikyfatih/Developer/Learn/bootcamp/Pertemuan 27 WorkingWithEFCore-master/EFCore/EFCore.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\Dhea_Bootcamp\\learn\\Pertemuan 27 WorkingWithEFCore-master\\EFCore\\EFCore.csproj",
+        "projectUniqueName": "/Users/fikyfatih/Developer/Learn/bootcamp/Pertemuan 27 WorkingWithEFCore-master/EFCore/EFCore.csproj",
         "projectName": "EFCore",
-        "projectPath": "d:\\Dhea_Bootcamp\\learn\\Pertemuan 27 WorkingWithEFCore-master\\EFCore\\EFCore.csproj",
-        "packagesPath": "C:\\Users\\Formulatrix\\.nuget\\packages\\",
-        "outputPath": "d:\\Dhea_Bootcamp\\learn\\Pertemuan 27 WorkingWithEFCore-master\\EFCore\\obj\\",
+        "projectPath": "/Users/fikyfatih/Developer/Learn/bootcamp/Pertemuan 27 WorkingWithEFCore-master/EFCore/EFCore.csproj",
+        "packagesPath": "/Users/fikyfatih/.nuget/packages/",
+        "outputPath": "/Users/fikyfatih/Developer/Learn/bootcamp/Pertemuan 27 WorkingWithEFCore-master/EFCore/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Formulatrix\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "/Users/fikyfatih/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
@@ -69,7 +69,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.202/RuntimeIdentifierGraph.json"
         }
       }
     }

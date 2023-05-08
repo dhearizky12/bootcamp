@@ -16,7 +16,7 @@
     </PackageReference>
     <PackageReference Include="Microsoft.EntityFrameworkCore.SQLite" Version="7.0.5" />
     <Content Include="Program.cs" />
-    <Content Include="Northwind.db" />
+    <Content Include="_Northwind.db" />
     <Content Include="Program.Helper.cs" />
     <Content Include="AutoGenModels\Northwind.cs" />
     <Content Include="AutoGenModels\Product.cs" />
