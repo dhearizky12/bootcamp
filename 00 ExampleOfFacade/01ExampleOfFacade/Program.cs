@@ -37,7 +37,7 @@ namespace OrderFoodApp
     }
 
     // Subsystem 2
-    public class Order
+    public class Waiter
     {
         public void AddItem(string item, int qty)
         {
@@ -55,12 +55,12 @@ namespace OrderFoodApp
     public class OrderFoodFacade
     {
         private readonly Menu _menu;
-        private readonly Order _order;
+        private readonly Waiter _waiter;
 
         public OrderFoodFacade()
         {
             _menu = new Menu();
-            _order = new Order();
+            _waiter = new Waiter();
         }
 
         public void ShowMenu()
@@ -70,12 +70,12 @@ namespace OrderFoodApp
 
         public void AddItemToOrder(string item, int qty)
         {
-            _order.AddItem(item, qty);
+            _waiter.AddItem(item, qty);
         }
 
         public int CalculateTotal()
         {
-            return _order.CalculateTotal();
+            return _waiter.CalculateTotal();
         }
     }
 
